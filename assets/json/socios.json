@@ -1,0 +1,7214 @@
+[
+    {
+        "tipo": 2,
+        "nombres": "Josue",
+        "apellidos": "Medina Peña",
+        "ci": "3127007",
+        "fechaNacimiento": "1964/02/09",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "7208062",
+                "direccion": "21 de Septiembre",
+                "orden": "1",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            },
+            "medidor2": {
+                "numero": "7209011",
+                "direccion": "21 de Septiembre",
+                "orden": "22",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Fernando",
+        "apellidos": "Carvajal Uzieda",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "7209006",
+                "direccion": "21 de Septiembre",
+                "orden": "2",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Juan",
+        "apellidos": "Galarza Chacon",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "7209018",
+                "direccion": "21 de Septiembre",
+                "orden": "3",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Lucha",
+        "apellidos": "Ledezma Escobar",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "195334-10",
+                "direccion": "21 de Septiembre",
+                "orden": "5",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            },
+            "medidor2": {
+                "numero": "A13L054474",
+                "direccion": "21 de Septiembre",
+                "orden": "23",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3513313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Jose Victor",
+        "apellidos": "Pinto Pereira",
+        "ci": "980501",
+        "fechaNacimiento": "1960/08/26",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "194627-11",
+                "direccion": "21 de Septiembre",
+                "orden": "6",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            },
+            "medidor2": {
+                "numero": "194622-11",
+                "direccion": "21 de Septiembre",
+                "orden": "30",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            313133713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Wilfredo",
+        "apellidos": "Ledezma Escobar",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "7208235",
+                "direccion": "21 de Septiembre",
+                "orden": "7",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Anabel Maruja",
+        "apellidos": "Benavides Meneces",
+        "ci": "3033460",
+        "fechaNacimiento": "1960/09/02",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "7209008",
+                "direccion": "21 de Septiembre",
+                "orden": "8",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Jaime",
+        "apellidos": "Villalta Fernandez",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "7208236",
+                "direccion": "21 de Septiembre",
+                "orden": "9",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "German",
+        "apellidos": "Zambrana Villazon",
+        "ci": "3425218",
+        "fechaNacimiento": "1959/12/10",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "7208237",
+                "direccion": "21 de Septiembre",
+                "orden": "10",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+    {
+        "tipo": 2,
+        "nombres": "Beatriz",
+        "apellidos": "Apaza Gutierrez",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "195330-11",
+                "direccion": "21 de Septiembre",
+                "orden": "11",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+    {
+        "tipo": 2,
+        "nombres": "Carmen",
+        "apellidos": "Revera de Ledezma",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "7209010",
+                "direccion": "21 de Septiembre",
+                "orden": "12",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+    {
+        "tipo": 2,
+        "nombres": "Walter",
+        "apellidos": "Ledezma Escobar",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "7208060",
+                "direccion": "21 de Septiembre",
+                "orden": "13",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Pascuala",
+        "apellidos": "Mamani de Chuquimia",
+        "ci": "2057297",
+        "fechaNacimiento": "1954/04/11",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "127336-10",
+                "direccion": "21 de Septiembre",
+                "orden": "14",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Tito",
+        "apellidos": "Vargas Ortega",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "126609-10",
+                "direccion": "21 de Septiembre",
+                "orden": "15",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Adriana",
+        "apellidos": "Pinto de Oros",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "127114-10",
+                "direccion": "21 de Septiembre",
+                "orden": "16",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Enrrique",
+        "apellidos": "Soria Cano",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "7207929",
+                "direccion": "21 de Septiembre",
+                "orden": "17",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Silvia",
+        "apellidos": "Sagredo Verduguez",
+        "ci": "933162",
+        "fechaNacimiento": "1955/05/18",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "126602-10",
+                "direccion": "21 de Septiembre",
+                "orden": "18",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Jose",
+        "apellidos": "Ledezma Escobar",
+        "ci": "858124",
+        "fechaNacimiento": "1946/08/27",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "129308-10",
+                "direccion": "21 de Septiembre",
+                "orden": "19",
+                "lectura": 0,
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            },
+            "medidor2": {
+                "numero": "12608-10",
+                "direccion": "21 de Septiembre",
+                "orden": "193",
+                "lectura": 0,
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Saida",
+        "apellidos": "Guzman de Colque",
+        "ci": "3569701",
+        "fechaNacimiento": "1965/03/17",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "127348-10",
+                "direccion": "21 de Septiembre",
+                "orden": "20",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+    {
+        "tipo": 2,
+        "nombres": "Omar",
+        "apellidos": "Terceros Benavidez",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "A11L340685",
+                "direccion": "21 de Septiembre",
+                "orden": "21",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Alberto",
+        "apellidos": "Bustos Gonzales",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "127353-10",
+                "direccion": "21 de Septiembre",
+                "orden": "24",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Maria Helen",
+        "apellidos": "Valencia Rojas",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "194618-11",
+                "direccion": "21 de Septiembre",
+                "orden": "25",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Bernardo",
+        "apellidos": "Flores Ochoa",
+        "ci": "2702696",
+        "fechaNacimiento": "1967/03/12",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "126596-10",
+                "direccion": "21 de Septiembre",
+                "orden": "26",
+                "lectura": 0,
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            },
+            "medidor2": {
+                "numero": "032679-12",
+                "direccion": "21 de Septiembre",
+                "orden": "27",
+                "lectura": 0,
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+    {
+        "tipo": 2,
+        "nombres": "Rudy",
+        "apellidos": "Guzman Chirinos",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A12L130398",
+                "direccion": "21 de Septiembre",
+                "orden": "28",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Felix",
+        "apellidos": "Gutierrez Gonzales",
+        "ci": "2740182",
+        "fechaNacimiento": "1956/01/07",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "127315-10",
+                "direccion": "21 de Septiembre",
+                "orden": "29",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+    {
+        "tipo": 2,
+        "nombres": "Enrrique",
+        "apellidos": "Camacho Adriazola",
+        "ci": "3565257",
+        "fechaNacimiento": "1970/07/12",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "195337-11",
+                "direccion": "21 de Septiembre",
+                "orden": "31",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Alvaro",
+        "apellidos": "Cespedes Tapia",
+        "ci": "5197067",
+        "fechaNacimiento": "1980/03/18",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A13L071415",
+                "direccion": "21 de Septiembre",
+                "orden": "32",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            66565621
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Bicman",
+        "apellidos": "Silvestre Camacho",
+        "ci": "6520912",
+        "fechaNacimiento": "1973/07/29",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "195336-11",
+                "direccion": "21 de Septiembre",
+                "orden": "33",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Victor",
+        "apellidos": "Cespedes Calatayud",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A11L019356",
+                "direccion": "21 de Septiembre",
+                "orden": "34",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Renata",
+        "apellidos": "Ledezma Vda. de Terceros",
+        "ci": "3748741",
+        "fechaNacimiento": "1942/02/26",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "127350-10",
+                "direccion": "21 de Septiembre",
+                "orden": "35",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Linsay",
+        "apellidos": "Quintana Calatayud",
+        "ci": "6472678",
+        "fechaNacimiento": "1986/04/09",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "128710-10",
+                "direccion": "21 de Septiembre",
+                "orden": "36",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Benigno",
+        "apellidos": "Terceros Ledezma",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "127349-10",
+                "direccion": "21 de Septiembre",
+                "orden": "37",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+    {
+        "tipo": 2,
+        "nombres": "Henrry Rene",
+        "apellidos": "Carballo Mercado",
+        "ci": "5239077",
+        "fechaNacimiento": "1980/12/07",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "126471-10",
+                "direccion": "21 de Septiembre",
+                "orden": "38",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+    {
+        "tipo": 2,
+        "nombres": "Cristobal",
+        "apellidos": "Terceros Ledezma",
+        "ci": "5245213",
+        "fechaNacimiento": "1974/07/25",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "127351-10",
+                "direccion": "21 de Septiembre",
+                "orden": "39",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Ximena Gissela",
+        "apellidos": "Carballo Mercado",
+        "ci": "4417809",
+        "fechaNacimiento": "1975/05/27",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "LAOX",
+                "direccion": "21 de Septiembre",
+                "orden": "40",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Sagrada Familia",
+        "apellidos": "Congregación",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "129313-10",
+                "direccion": "21 de Septiembre",
+                "orden": "41",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Lourdes",
+        "apellidos": "Herbas Colque",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "127624-10",
+                "direccion": "21 de Septiembre",
+                "orden": "42",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Maria Aida",
+        "apellidos": "Vargas de Camacho",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "126606-10",
+                "direccion": "21 de Septiembre",
+                "orden": "43",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Auro",
+        "apellidos": "Terceros",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "034379-12",
+                "direccion": "21 de Septiembre",
+                "orden": "44",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Jose Bernardino",
+        "apellidos": "Flores Alcocer",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "195333-11",
+                "direccion": "21 de Septiembre",
+                "orden": "45",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Sonia",
+        "apellidos": "Roque Ticona",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "128454-10",
+                "direccion": "21 de Septiembre",
+                "orden": "46",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Felix",
+        "apellidos": "Mamani Villalta",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "128463-10",
+                "direccion": "21 de Septiembre",
+                "orden": "47",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Angelica",
+        "apellidos": "Agreda Vargas de Garcia",
+        "ci": "1411326",
+        "fechaNacimiento": "1952/02/04",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "126470-10",
+                "direccion": "21 de Septiembre",
+                "orden": "48",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Jorge",
+        "apellidos": "Apaza Quispe",
+        "ci": "3612396",
+        "fechaNacimiento": "1962/09/01",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "128460-10",
+                "direccion": "21 de Septiembre",
+                "orden": "49",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Benigna",
+        "apellidos": "Bazoalto Sanchez de Vazquez",
+        "ci": "2919722",
+        "fechaNacimiento": "1955/06/28",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "129327-10",
+                "direccion": "21 de Septiembre",
+                "orden": "50",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Alexis",
+        "apellidos": "Gutierrez Gandarilla",
+        "ci": "",
+        "fechaNacimiento": "2018/02/10",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "128705-10",
+                "direccion": "21 de Septiembre",
+                "orden": "51",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            66565621
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Martina",
+        "apellidos": "Ortiz Gonzales Vda. de Beltran",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "127586-10",
+                "direccion": "21 de Septiembre",
+                "orden": "52",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+    {
+        "tipo": 3,
+        "nombres": "Eliseo",
+        "apellidos": "Rioja Aquino",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "128709-10",
+                "direccion": "21 de Septiembre",
+                "orden": "53",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Florencio",
+        "apellidos": "Apaza Pocori",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "127618-10",
+                "direccion": "21 de Septiembre",
+                "orden": "54",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Severo",
+        "apellidos": "Marca Poma",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "128462-10",
+                "direccion": "21 de Septiembre",
+                "orden": "55",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Maria Mercedes",
+        "apellidos": "Damian Perez",
+        "ci": "",
+        "fechaNacimiento": "1964/02/09",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "128909-10",
+                "direccion": "21 de Septiembre",
+                "orden": "56",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            },
+            "medidor2": {
+                "numero": "7207966",
+                "direccion": "21 de Septiembre",
+                "orden": "122",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Mildreth",
+        "apellidos": "Zurita Torrico",
+        "ci": "6430841",
+        "fechaNacimiento": "1985/07/01",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "72088055",
+                "direccion": "21 de Septiembre",
+                "orden": "57",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Nelson",
+        "apellidos": "Mamani Chipana",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "127622-10",
+                "direccion": "21 de Septiembre",
+                "orden": "58",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Maria Teresa",
+        "apellidos": "Larrazabal Gutierrez",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "128457-10",
+                "direccion": "21 de Septiembre",
+                "orden": "59",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+    {
+        "tipo": 2,
+        "nombres": "Ramiro Alberto",
+        "apellidos": "Herrera Teran",
+        "ci": "4488096",
+        "fechaNacimiento": "1973/08/07",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "128908-10",
+                "direccion": "21 de Septiembre",
+                "orden": "60",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "David",
+        "apellidos": "Fernandez Paco",
+        "ci": "5175074",
+        "fechaNacimiento": "1976/12/20",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "1207934",
+                "direccion": "21 de Septiembre",
+                "orden": "61",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Marina",
+        "apellidos": "Inoche Alave",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A11L355641",
+                "direccion": "21 de Septiembre",
+                "orden": "62",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Saul",
+        "apellidos": "Rojas",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "A15L266322",
+                "direccion": "21 de Septiembre",
+                "orden": "63",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Lucy",
+        "apellidos": "Inochea Alave",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "127121-10",
+                "direccion": "21 de Septiembre",
+                "orden": "64",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Casto Kindar",
+        "apellidos": "Blanco Bustillo",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "129311-10",
+                "direccion": "21 de Septiembre",
+                "orden": "65",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 0.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Ruben",
+        "apellidos": "Otalora Inochea",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "129307-10",
+                "direccion": "21 de Septiembre",
+                "orden": "66",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Pascual",
+        "apellidos": "Otalora Inochea",
+        "ci": "3576861",
+        "fechaNacimiento": "1964/04/19",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "129306-10",
+                "direccion": "21 de Septiembre",
+                "orden": "67",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Emilia",
+        "apellidos": "Merida Vergara",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "126591-10",
+                "direccion": "21 de Septiembre",
+                "orden": "68",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Yonny",
+        "apellidos": "Inochea Guzman",
+        "ci": "3587553",
+        "fechaNacimiento": "1969/09/08",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "194624-11",
+                "direccion": "21 de Septiembre",
+                "orden": "69",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Javier",
+        "apellidos": "Inochea Guzman",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "7207930",
+                "direccion": "21 de Septiembre",
+                "orden": "70",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Emiliana",
+        "apellidos": "Inoche Chavez Vda. de Orellana",
+        "ci": "860445",
+        "fechaNacimiento": "1947/08/20",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "128897-10",
+                "direccion": "21 de Septiembre",
+                "orden": "71",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Emigdio",
+        "apellidos": "Miranda",
+        "ci": "3746518",
+        "fechaNacimiento": "1970/10/09",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "LAOE",
+                "direccion": "21 de Septiembre",
+                "orden": "72",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+    {
+        "tipo": 2,
+        "nombres": "Richard",
+        "apellidos": "Rojas Ledezma",
+        "ci": "4446006",
+        "fechaNacimiento": "1972/10/26",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "33950",
+                "direccion": "21 de Septiembre",
+                "orden": "73",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Angel",
+        "apellidos": "Merida Vergara",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "129330-10",
+                "direccion": "21 de Septiembre",
+                "orden": "74",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            66565621
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Hilda",
+        "apellidos": "Merida Vergara",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "128464-10",
+                "direccion": "21 de Septiembre",
+                "orden": "75",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Abac Efenia",
+        "apellidos": "Heredia Rocha",
+        "ci": "5201077",
+        "fechaNacimiento": "1956/01/15",
+        "sexo": "M",
+        "email": "Abac.Heredia@gmail.com",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "129309-10",
+                "direccion": "21 de Septiembre",
+                "orden": "76",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 240.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            66666666
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Mirian Esperanza",
+        "apellidos": "Callapa Merida de Rioja",
+        "ci": "5277818",
+        "fechaNacimiento": "1980/09/06",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "129329-10",
+                "direccion": "21 de Septiembre",
+                "orden": "77",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Zaida",
+        "apellidos": "Merida Vergara",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "128459-10",
+                "direccion": "21 de Septiembre",
+                "orden": "78",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Feliciano",
+        "apellidos": "Quiroz Rosas",
+        "ci": "815069-1p",
+        "fechaNacimiento": "1950/02/05",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "128712-10",
+                "direccion": "21 de Septiembre",
+                "orden": "79",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Benigno",
+        "apellidos": "Quiroz Ferrufino",
+        "ci": "3942714",
+        "fechaNacimiento": "1968/06/28",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "128713-10",
+                "direccion": "21 de Septiembre",
+                "orden": "80",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Fortunato",
+        "apellidos": "Inochea Jimenez",
+        "ci": "807101",
+        "fechaNacimiento": "1951/02/02",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "129331-10",
+                "direccion": "21 de Septiembre",
+                "orden": "81",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            },
+            "medidor2": {
+                "numero": "LAO-F",
+                "direccion": "21 de Septiembre",
+                "orden": "190",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Juan Ronald",
+        "apellidos": "Inochea Vargas",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "129394-10",
+                "direccion": "21 de Septiembre",
+                "orden": "82",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Golden",
+        "apellidos": "Fernandez Suarez",
+        "ci": "5721886",
+        "fechaNacimiento": "1948/12/05",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "126469-10",
+                "direccion": "21 de Septiembre",
+                "orden": "83",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Julio Cesar",
+        "apellidos": "Torrez",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "129314-10",
+                "direccion": "21 de Septiembre",
+                "orden": "84",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Mario",
+        "apellidos": "Guzman Pinto",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "126473-10",
+                "direccion": "21 de Septiembre",
+                "orden": "85",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            },
+            "medidor2": {
+                "numero": "AI7L118381",
+                "direccion": "21 de Septiembre",
+                "orden": "194",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Ramiro Fermin",
+        "apellidos": "Aguilar Corrales",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "7208606",
+                "direccion": "21 de Septiembre",
+                "orden": "86",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Jhanneth",
+        "apellidos": "Ledezma Enriquez",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "126603-10",
+                "direccion": "21 de Septiembre",
+                "orden": "87",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Valentin",
+        "apellidos": "Rios Peña",
+        "ci": "2955641",
+        "fechaNacimiento": "1955/12/16",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "127620-10",
+                "direccion": "21 de Septiembre",
+                "orden": "88",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Hugo",
+        "apellidos": "Caceres Velasco",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "7208608",
+                "direccion": "21 de Septiembre",
+                "orden": "89",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Fabian",
+        "apellidos": "Valdivia Pinto",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "127621-10",
+                "direccion": "21 de Septiembre",
+                "orden": "90",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Froilan",
+        "apellidos": "Quiñones Paco",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "127588-10",
+                "direccion": "21 de Septiembre",
+                "orden": "91",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            },
+            "medidor2": {
+                "numero": "127594-10",
+                "direccion": "21 de Septiembre",
+                "orden": "92",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            },
+            "medidor3": {
+                "numero": "127593-10",
+                "direccion": "21 de Septiembre",
+                "orden": "93",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Celso",
+        "apellidos": "Valdivia",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "7208613",
+                "direccion": "21 de Septiembre",
+                "orden": "94",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 3,
+        "nombres": "Alberto",
+        "apellidos": "Cruz Villca",
+        "ci": "2008922",
+        "fechaNacimiento": "1951/08/10",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "7207244",
+                "direccion": "21 de Septiembre",
+                "orden": "95",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            21323
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Feliz",
+        "apellidos": "Aduviri Mamani",
+        "ci": "279715",
+        "fechaNacimiento": "1941/02/03",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "728708-10",
+                "direccion": "21 de Septiembre",
+                "orden": "96",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Yhonny Rodolfo",
+        "apellidos": "Quiroz Aranibar",
+        "ci": "3807130",
+        "fechaNacimiento": "1973/09/23",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "129312-10",
+                "direccion": "21 de Septiembre",
+                "orden": "97",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            },
+            "medidor2": {
+                "numero": "LAOJ",
+                "direccion": "21 de Septiembre",
+                "orden": "211",
+                "lectura": 0,
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Susana",
+        "apellidos": "Quiroz Aranibar",
+        "ci": "6514201",
+        "fechaNacimiento": "1987/10/12",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "LAO-S",
+                "direccion": "21 de Septiembre",
+                "orden": "98",
+                "fechaInstalacion": "2016/06/08",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Vitalia",
+        "apellidos": "Guzman de Abasto",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "034386-12",
+                "direccion": "21 de Septiembre",
+                "orden": "99",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Elias",
+        "apellidos": "Quispe Compara",
+        "ci": "3775392",
+        "fechaNacimiento": "1971/09/11",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "127120-10",
+                "direccion": "21 de Septiembre",
+                "orden": "100",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+    {
+        "tipo": 2,
+        "nombres": "Dante Alberto",
+        "apellidos": " Verastegui Ontiveros",
+        "ci": "3037248",
+        "fechaNacimiento": "1962/04/03",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "7208241",
+                "direccion": "21 de Septiembre",
+                "orden": "101",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            },
+            "medidor2": {
+                "numero": "A18S566162",
+                "direccion": "21 de Septiembre",
+                "orden": "248",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 4176.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Carlos Francini",
+        "apellidos": " Valdivia Pinto",
+        "ci": "3769353",
+        "fechaNacimiento": "1971/10/20",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "7208239",
+                "direccion": "21 de Septiembre",
+                "orden": "102",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Jhon Cristian",
+        "apellidos": "Laura Illacutipa",
+        "ci": "",
+        "fechaNacimiento": "1962/04/03",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "A15L146500",
+                "direccion": "21 de Septiembre",
+                "orden": "103",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 4176.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Edson",
+        "apellidos": "Caceres Cejas",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "7208607",
+                "direccion": "21 de Septiembre",
+                "orden": "104",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Boris",
+        "apellidos": "Martines Caceres",
+        "ci": "",
+        "fechaNacimiento": "1978/12/16",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "129310-10",
+                "direccion": "Teniente Benavides",
+                "orden": "105",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Julian",
+        "apellidos": "Lopez Alanoca",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "126598-10",
+                "direccion": "21 de Septiembre",
+                "orden": "106",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Wilma",
+        "apellidos": "Condori Sarzuri",
+        "ci": "3701164",
+        "fechaNacimiento": "1968/12/29",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "LAO_A",
+                "direccion": "Teniente Benavides",
+                "orden": "107",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Gonzalo",
+        "apellidos": "Vargas Hinojosa",
+        "ci": "",
+        "fechaNacimiento": "1978/12/16",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "1265599-10",
+                "direccion": "Teniente Benavides",
+                "orden": "108",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Maria Margarita",
+        "apellidos": "Quiroz de Gomez",
+        "ci": "3786704",
+        "fechaNacimiento": "1957/08/27",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "128906-10",
+                "direccion": "21 de Septiembre",
+                "orden": "109",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Sinforosa",
+        "apellidos": "Quispe Mamani",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "129325-10",
+                "direccion": "Teniente Benavides",
+                "orden": "110",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Guillermo",
+        "apellidos": "Huanca Aucachi ",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "129305-10",
+                "direccion": "21 de Septiembre",
+                "orden": "111",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Lidia",
+        "apellidos": "Calle Chuquimia",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "127117-10",
+                "direccion": "21 de Septiembre",
+                "orden": "112",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Carmelo",
+        "apellidos": "Mamani ",
+        "ci": "261089",
+        "fechaNacimiento": "1944/07/09",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "126604-10",
+                "direccion": "Teniente Benavides",
+                "orden": "113",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Esther Ruth",
+        "apellidos": "Lopez Simon",
+        "ci": "3775804",
+        "fechaNacimiento": "1970/04/09",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "128900-10",
+                "direccion": "21 de Septiembre",
+                "orden": "114",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Elsa",
+        "apellidos": "Gutierrez de Coca",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "127352-10",
+                "direccion": "21 de Septiembre",
+                "orden": "115",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Elias",
+        "apellidos": "Soria Medrano",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "20120350",
+                "direccion": "21 de Septiembre",
+                "orden": "116",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Jianeth Mirtha",
+        "apellidos": "Inochea Guzman",
+        "ci": "4452191",
+        "fechaNacimiento": "1982/09/08",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "127587-10",
+                "direccion": "21 de Septiembre",
+                "orden": "117",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Wilfredo",
+        "apellidos": "Ledezma Enriquez ",
+        "ci": "3779201",
+        "fechaNacimiento": "1972/10/11",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "127615-10",
+                "direccion": "21 de Septiembre",
+                "orden": "118",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            },
+            "medidor2": {
+                "numero": "A15L148053",
+                "direccion": "21 de Septiembre",
+                "orden": "209",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "BOLIVIANOS",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Susana",
+        "apellidos": "Enrriquez Valdivia de Herrera",
+        "ci": "3587117",
+        "fechaNacimiento": "1966/09/20",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "127616-10",
+                "direccion": "21 de Septiembre",
+                "orden": "119",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Ricardo",
+        "apellidos": "Otalora Inochea ",
+        "ci": "3587667",
+        "fechaNacimiento": "1969/04/02",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "128902-10",
+                "direccion": "21 de Septiembre",
+                "orden": "120",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Elizabeth",
+        "apellidos": "Ochoa de Otalora",
+        "ci": "5239428",
+        "fechaNacimiento": "1975/11/06",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "195335-11",
+                "direccion": "21 de Septiembre",
+                "orden": "121",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            },
+            "medidor2": {
+                "numero": "A14L247831",
+                "direccion": "21 de Septiembre",
+                "orden": "204",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "BOLIVIANOS",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Nicolas",
+        "apellidos": "Alave Morales",
+        "ci": "910370",
+        "fechaNacimiento": "1949/03/22",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "A12203258",
+                "direccion": "21 de Septiembre",
+                "orden": "123",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Saturnino",
+        "apellidos": "Mollo Morales",
+        "ci": "3750210",
+        "fechaNacimiento": "1968/09/29",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "127623-10",
+                "direccion": "21 de Septiembre",
+                "orden": "124",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Inez",
+        "apellidos": "Zeballos Alave",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "7208612",
+                "direccion": "21 de Septiembre",
+                "orden": "125",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Julieta",
+        "apellidos": "Zeballos Alave",
+        "ci": "7886637",
+        "fechaNacimiento": "1986/08/22",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "7208610",
+                "direccion": "Teniente Benavides",
+                "orden": "126",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Orlando",
+        "apellidos": "Zeballos Alave",
+        "ci": "5938639",
+        "fechaNacimiento": "1982/03/23",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "7207927",
+                "direccion": "21 de Septiembre",
+                "orden": "127",
+                "fechaInstalacion": "2016/06/08",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Juan Carlos",
+        "apellidos": "Valdivia Sarabia",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "128896-10",
+                "direccion": "21 de Septiembre",
+                "orden": "128",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Cristobal Ramiro",
+        "apellidos": "Valdivia Sarabia",
+        "ci": "3766446",
+        "fechaNacimiento": "1971/12/05",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "128711-10",
+                "direccion": "21 de Septiembre",
+                "orden": "129",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 4176.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            },
+            "medidor2": {
+                "numero": "A175265345",
+                "direccion": "21 de Septiembre",
+                "orden": "247",
+                "lectura": 0,
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "compra": {
+                    "precio": 4176.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Lina",
+        "apellidos": "Veliz Moreira",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "128895-10",
+                "direccion": "21 de Septiembre",
+                "orden": "130",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Remberto",
+        "apellidos": "Garcia Bueno",
+        "ci": "5235006",
+        "fechaNacimiento": "1980/09/14",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "127590-10",
+                "direccion": "21 de Septiembre",
+                "orden": "131",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Pedro",
+        "apellidos": "Mollo Morales",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "126610-10",
+                "direccion": "21 de Septiembre",
+                "orden": "132",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Jorge",
+        "apellidos": "Ruedas Sanizo",
+        "ci": "8667102",
+        "fechaNacimiento": "1959/08/24",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "127354-10",
+                "direccion": "21 de Septiembre",
+                "orden": "133",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 1400.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Javier",
+        "apellidos": "Terceros Valdivia",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "033953-12",
+                "direccion": "21 de Septiembre",
+                "orden": "134",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Nemecio",
+        "apellidos": "Terceros Valdivia",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "129318-10",
+                "direccion": "21 de Septiembre",
+                "orden": "135",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Juan Pablo",
+        "apellidos": "Terceros Valdivia",
+        "ci": "6508084",
+        "fechaNacimiento": "1981/11/10",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "128301-10",
+                "direccion": "21 de Septiembre",
+                "orden": "136",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Agustina",
+        "apellidos": "Terceros Valdibia",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "128904-10",
+                "direccion": "21 de Septiembre",
+                "orden": "137",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Alfredo",
+        "apellidos": "Terceros Valdivia ",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "LAO-A",
+                "direccion": "21 de Septiembre",
+                "orden": "138",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Maria Luisa",
+        "apellidos": "Valdivia Sarabia",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "128898-10",
+                "direccion": "21 de Septiembre",
+                "orden": "139",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Juana",
+        "apellidos": "Valdivia Saravia",
+        "ci": "5257849",
+        "fechaNacimiento": "1978/08/29",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "128899-10",
+                "direccion": "Teniente Benavides",
+                "orden": "140",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Roberta",
+        "apellidos": "Uzieda Ledezma",
+        "ci": "3779145",
+        "fechaNacimiento": "1970/05/24",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "7208243",
+                "direccion": "Teniente Benavides",
+                "orden": "141",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Wilson",
+        "apellidos": "Uzieda Ledezma",
+        "ci": "4491476",
+        "fechaNacimiento": "1975/01/05",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "7207925",
+                "direccion": "Teniente Benavides",
+                "orden": "142",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Nancy",
+        "apellidos": "Pinto Alcon",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "7207928",
+                "direccion": "21 de Septiembre",
+                "orden": "143",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Martin",
+        "apellidos": "Vilalo Franco",
+        "ci": "6494695",
+        "fechaNacimiento": "1984/06/10",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A13L203629",
+                "direccion": "21 de Septiembre",
+                "orden": "144",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Marcela",
+        "apellidos": "Mamani Villalta",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "127585-10",
+                "direccion": "21 de Septiembre",
+                "orden": "145",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Epifania",
+        "apellidos": "Quispe Compara",
+        "ci": "3369225",
+        "fechaNacimiento": "1967/01/06",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "127113-10",
+                "direccion": "21 de Septiembre",
+                "orden": "146",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Delia Benedicta",
+        "apellidos": "Claros Rodriguez",
+        "ci": "3070044",
+        "fechaNacimiento": "1963/07/07",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "129326-10",
+                "direccion": "21 de Septiembre",
+                "orden": "147",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Lidia Estela",
+        "apellidos": "Claros Rodriguez",
+        "ci": "2730184",
+        "fechaNacimiento": "1961/08/03",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "LAO-LE",
+                "direccion": "21 de Septiembre",
+                "orden": "148",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Brido",
+        "apellidos": "Claros Rodriguez",
+        "ci": "3530693",
+        "fechaNacimiento": "1975/07/23",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "LAO-BC",
+                "direccion": "21 de Septiembre",
+                "orden": "149",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+    {
+        "tipo": 2,
+        "nombres": "Javier Antonio",
+        "apellidos": "Claros Rodriguez ",
+        "ci": "3722882",
+        "fechaNacimiento": "1968/07/29",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "LAO-JCR",
+                "direccion": "21 de Septiembre",
+                "orden": "150",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Ruben",
+        "apellidos": "Claros Rodriguez",
+        "ci": "3100115",
+        "fechaNacimiento": "1965/07/05",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "LAO-RCR",
+                "direccion": "21 de Septiembre",
+                "orden": "151",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Leoncio",
+        "apellidos": "Lliulli Saire",
+        "ci": "2218596",
+        "fechaNacimiento": "1949/09/12",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "194623-11",
+                "direccion": "21 de Septiembre",
+                "orden": "152",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Ana Maria",
+        "apellidos": "Benavides Encinas",
+        "ci": "990214",
+        "fechaNacimiento": "1995/12/04",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "126474-10",
+                "direccion": "21 de Septiembre",
+                "orden": "153",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Lilian Leticia",
+        "apellidos": "Carvallo Mercado",
+        "ci": "5237682",
+        "fechaNacimiento": "1978/01/14",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "126607-10",
+                "direccion": "Teniente Benavides",
+                "orden": "154",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Mabel Berta",
+        "apellidos": "Saavedra Mercado",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "129333-10",
+                "direccion": "21 de Septiembre",
+                "orden": "155",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Iber",
+        "apellidos": "Saavedra Mercado ",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "128456-10",
+                "direccion": "21 de Septiembre",
+                "orden": "156",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Julieta",
+        "apellidos": "Rodriguez Guillen",
+        "ci": "3057589",
+        "fechaNacimiento": "1946/02/16",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "128455-10",
+                "direccion": "Teniente Benavides",
+                "orden": "157",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Roxana Dolly",
+        "apellidos": "Carballo Mercado",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "LAO-RC",
+                "direccion": "Teniente Benavides",
+                "orden": "158",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Jhonatan Osbaldo",
+        "apellidos": "Carballo Mercado",
+        "ci": "5259758-1h",
+        "fechaNacimiento": "1984/04/12",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "LAO-JC_A",
+                "direccion": "Teniente Benavides",
+                "orden": "159",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Rene",
+        "apellidos": "Carballo Ortega",
+        "ci": "595596",
+        "fechaNacimiento": "1941/06/18",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "LAO-R",
+                "direccion": "Teniente Benavides",
+                "orden": "160",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+    {
+        "tipo": 2,
+        "nombres": "Hilarion",
+        "apellidos": "Almendras Rodrigues",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "7208614",
+                "direccion": "21 de Septiembre",
+                "orden": "161",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Feliz",
+        "apellidos": "Valdez Zapata ",
+        "ci": "541036",
+        "fechaNacimiento": "1933/11/20",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "127118-10",
+                "direccion": "21 de Septiembre",
+                "orden": "162",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Nelsa",
+        "apellidos": "Rodriguez Vargas",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "195329-10",
+                "direccion": "21 de Septiembre",
+                "orden": "163",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Javier Wenceslao",
+        "apellidos": "Rodriguez Vargas",
+        "ci": "3123415",
+        "fechaNacimiento": "1961/12/04",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "127619-10",
+                "direccion": "21 de Septiembre",
+                "orden": "164",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Victor",
+        "apellidos": "Cabrera Peña",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "126611-10",
+                "direccion": "21 de Septiembre",
+                "orden": "165",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Alicia",
+        "apellidos": "Rodriguez Vargas",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "A14L060366_A",
+                "direccion": "21 de Septiembre",
+                "orden": "166",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3114713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Jose",
+        "apellidos": "Droguetts Sautter",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "126613-10",
+                "direccion": "21 de Septiembre",
+                "orden": "167",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Felipe",
+        "apellidos": "Gutierrez Mamani ",
+        "ci": "1718534",
+        "fechaNacimiento": "1959/08/25",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "195328-11",
+                "direccion": "21 de Septiembre",
+                "orden": "168",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Damian",
+        "apellidos": "Baltaza Mamani ",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "126605-10",
+                "direccion": "21 de Septiembre",
+                "orden": "169",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Inocencia",
+        "apellidos": "Cruz Barco de Mamani",
+        "ci": "7891935",
+        "fechaNacimiento": "1974/12/08",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "127617-10",
+                "direccion": "21 de Septiembre",
+                "orden": "170",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Radio",
+        "apellidos": "Movil Vinto ",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "126472-10",
+                "direccion": "21 de Septiembre",
+                "orden": "171",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Miriam",
+        "apellidos": "Castillo Vargas",
+        "ci": "5297014",
+        "fechaNacimiento": "1981/03/09",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "127119-10",
+                "direccion": "21 de Septiembre",
+                "orden": "172",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Pantaleon",
+        "apellidos": "Mamani Villca ",
+        "ci": "4069721",
+        "fechaNacimiento": "1963/07/22",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "7207932",
+                "direccion": "21 de Septiembre",
+                "orden": "173",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Rosalia",
+        "apellidos": "Tovar Toco",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "126612-10",
+                "direccion": "21 de Septiembre",
+                "orden": "174",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Martha Mariel",
+        "apellidos": "Vargas Bustamante",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A13L071332",
+                "direccion": "21 de Septiembre",
+                "orden": "175",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Gabriel",
+        "apellidos": "Terran Ascusy ",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "126600-10",
+                "direccion": "21 de Septiembre",
+                "orden": "176",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Juan Carlos",
+        "apellidos": "Teran Benavides",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "LAO-JC_B",
+                "direccion": "21 de Septiembre",
+                "orden": "177",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Alvina",
+        "apellidos": "Benavides de Teran",
+        "ci": "2914632",
+        "fechaNacimiento": "1949/03/02",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "LAO-AB",
+                "direccion": "21 de Septiembre",
+                "orden": "178",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Ernesto",
+        "apellidos": "Otalora Inochea",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "LAO-E",
+                "direccion": "21 de Septiembre",
+                "orden": "179",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Julio",
+        "apellidos": "Cabrera Vocal",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "128461-10",
+                "direccion": "21 de Septiembre",
+                "orden": "180",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Roberto",
+        "apellidos": "Asurduy Calderon",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "126601-10",
+                "direccion": "21 de Septiembre",
+                "orden": "181",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Eufracio",
+        "apellidos": "Quino",
+        "ci": "1434951",
+        "fechaNacimiento": "1954/06/04",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "127122-10",
+                "direccion": "21 de Septiembre",
+                "orden": "182",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Marizabeth",
+        "apellidos": "Garcia Peñarrieta",
+        "ci": "3768591",
+        "fechaNacimiento": "1957/10/29",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "127592-10",
+                "direccion": "Primavera",
+                "orden": "183",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Mariano",
+        "apellidos": "Paco Marco",
+        "ci": "826055",
+        "fechaNacimiento": "1952/09/25",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "129332-10",
+                "direccion": "Primavera",
+                "orden": "184",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Salome Elsa",
+        "apellidos": "Torrez Mamani",
+        "ci": "3139549",
+        "fechaNacimiento": "1959/06/08",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "127116-10",
+                "direccion": "21 de Septiembre",
+                "orden": "185",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Jorge",
+        "apellidos": "Selaya Morales ",
+        "ci": "618223",
+        "fechaNacimiento": "1953/04/24",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "127589-10",
+                "direccion": "21 de Septiembre",
+                "orden": "186",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Victor Hugo",
+        "apellidos": "Gonzales Call",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "7207926",
+                "direccion": "21 de Septiembre",
+                "orden": "187",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Gonzalo Enrrique",
+        "apellidos": "Gottret Requena ",
+        "ci": "755698",
+        "fechaNacimiento": "1948/12/19",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "A12L027163",
+                "direccion": "21 de Septiembre",
+                "orden": "188",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Marilu",
+        "apellidos": "Morales Narvaez",
+        "ci": "7344159",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A15L106153",
+                "direccion": "21 de Septiembre",
+                "orden": "189",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Pedro",
+        "apellidos": "Salinas Velazco",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "127591-10",
+                "direccion": "21 de Septiembre",
+                "orden": "191",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Lizeth",
+        "apellidos": "Cepeda Garcia",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "127123-10",
+                "direccion": "21 de Septiembre",
+                "orden": "192",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            3131313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Carlos",
+        "apellidos": "Zambrana Claure",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "033702-12",
+                "direccion": "21 de Septiembre",
+                "orden": "195",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Rodolfo",
+        "apellidos": "Rodriguez Romero",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "126614-10",
+                "direccion": "21 de Septiembre",
+                "orden": "196",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Vicente",
+        "apellidos": "Gonzales Aramayo",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "A07L064442",
+                "direccion": "21 de Septiembre",
+                "orden": "197",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Julio Cesar",
+        "apellidos": "Ledezma Enriquez",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A13L173335",
+                "direccion": "21 de Septiembre",
+                "orden": "198",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Victor",
+        "apellidos": "Salazar Flores ",
+        "ci": "460653",
+        "fechaNacimiento": "1953/03/10",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "A11L355684",
+                "direccion": "21 de Septiembre",
+                "orden": "199",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Simon Pedro",
+        "apellidos": "Calle Mamani",
+        "ci": "7069279",
+        "fechaNacimiento": "1978/03/18",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A14L259383",
+                "direccion": "Primavera",
+                "orden": "200",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Maria Eugenia",
+        "apellidos": "Terceros Ledezma",
+        "ci": "3774154",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "LAO-ME",
+                "direccion": "21 de Septiembre",
+                "orden": "201",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Epifanio",
+        "apellidos": "Galarza Chacon",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "LAO-EGC",
+                "direccion": "21 de Septiembre",
+                "orden": "202",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            71507157
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Javier",
+        "apellidos": "Huarachi Rios",
+        "ci": "6507300",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A14L061613",
+                "direccion": "21 de Septiembre",
+                "orden": "203",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            71507157
+        ]
+    },
+
+
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Adolfo",
+        "apellidos": "Mamani Pinto",
+        "ci": "2701765 lp",
+        "fechaNacimiento": "1971/09/26",
+        "sexo": "M",
+        "email": "Adolfo.Mamani@gmail.com",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "A14L024607",
+                "direccion": "Teniente Benavides",
+                "orden": "205",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            71507157
+        ]
+    },
+
+
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Alina",
+        "apellidos": "Terrazas Salazar",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A14L247832",
+                "direccion": "21 de Septiembre",
+                "orden": "206",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Felix",
+        "apellidos": "Choque Zarate",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "A14L247834",
+                "direccion": "21 de Septiembre",
+                "orden": "207",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Alicia",
+        "apellidos": "Lazo de Venegas",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "A14L060366_B",
+                "direccion": "21 de Septiembre",
+                "orden": "208",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31814713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Nelida",
+        "apellidos": "Vargas de Calle",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "A15L07656",
+                "direccion": "21 de Septiembre",
+                "orden": "210",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31814713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Emma",
+        "apellidos": "Salazar Cori",
+        "ci": "4964916",
+        "fechaNacimiento": "1978/04/04",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A15L087609",
+                "direccion": "21 de Septiembre",
+                "orden": "212",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31814713
+        ]
+    },
+
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Hugo Jose",
+        "apellidos": "Reinaga Villaroel",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "LAO-H",
+                "direccion": "21 de Septiembre",
+                "orden": "213",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            },
+            "medidor2": {
+                "numero": "LAO-H_A",
+                "direccion": "21 de Septiembre",
+                "orden": "214",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Erminia",
+        "apellidos": "Cano Bazualto",
+        "ci": "6408542",
+        "fechaNacimiento": "1985/01/19",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A14L188401",
+                "direccion": "21 de Septiembre",
+                "orden": "215",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            8144713
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Justo",
+        "apellidos": "Marca Portuguez",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A15L06749",
+                "direccion": "21 de Septiembre",
+                "orden": "216",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Carlos Justo",
+        "apellidos": "Zambrana Quiroga",
+        "ci": "817161",
+        "fechaNacimiento": "1981/03/02",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "A14L259386",
+                "direccion": "21 de Septiembre",
+                "orden": "217",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 3,
+        "nombres": "Javier",
+        "apellidos": "Miranda Nava",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A15L1031580",
+                "direccion": "21 de Septiembre",
+                "orden": "218",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 3,
+        "nombres": "Nicolas Alfredo",
+        "apellidos": "Aspiasu Palenque",
+        "ci": "389173",
+        "fechaNacimiento": "1947/09/10",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "A14L259385",
+                "direccion": "21 de Septiembre",
+                "orden": "219",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 3,
+        "nombres": "Juan David",
+        "apellidos": "Medina Rocha",
+        "ci": "672366",
+        "fechaNacimiento": "1955/06/27",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "A14L259377",
+                "direccion": "21 de Septiembre",
+                "orden": "220",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Romina",
+        "apellidos": "Montaño Vargas",
+        "ci": "3761797",
+        "fechaNacimiento": "1971/02/25",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A14L259384",
+                "direccion": "21 de Septiembre",
+                "orden": "221",
+                "fechaInstalacion": "2016/08/06",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            311713
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Aleida Eugenia",
+        "apellidos": "Rocabado Benavides",
+        "ci": "",
+        "fechaNacimiento": "1967/05/31",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A15L106327",
+                "direccion": "21 de Septiembre",
+                "orden": "222",
+                "fechaInstalacion": "2016/08/06",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            311713
+        ]
+    },
+
+
+
+    {
+        "tipo": 3,
+        "nombres": "Adolfo",
+        "apellidos": "Vargas Benavides",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A14L259382",
+                "direccion": "21 de Septiembre",
+                "orden": "223",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Neysa",
+        "apellidos": "Benavides",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A14L259378",
+                "direccion": "21 de Septiembre",
+                "orden": "224",
+                "fechaInstalacion": "2016/08/06",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            311713
+        ]
+    },
+
+
+
+    {
+        "tipo": 3,
+        "nombres": "Magin Demetrio",
+        "apellidos": "Cabrera Montecinos",
+        "ci": "5174683",
+        "fechaNacimiento": "1975/08/14",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A14L185429",
+                "direccion": "21 de Septiembre",
+                "orden": "225",
+                "fechaInstalacion": "2016/06/08",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Silberia",
+        "apellidos": "Torrez Espinoza",
+        "ci": "6194398",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A14L887678",
+                "direccion": "21 de Septiembre",
+                "orden": "226",
+                "fechaInstalacion": "2016/08/06",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            311713
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Flora",
+        "apellidos": "Dorado Crespo",
+        "ci": "2870884",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A15L148585",
+                "direccion": "21 de Septiembre",
+                "orden": "227",
+                "fechaInstalacion": "2016/08/06",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            311713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Alejandria Rosemary",
+        "apellidos": "Vargas Dorado",
+        "ci": "3756572",
+        "fechaNacimiento": "1972/04/24",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A15L153300",
+                "direccion": "21 de Septiembre",
+                "orden": "228",
+                "fechaInstalacion": "2016/03/25",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313713
+        ]
+    },
+
+
+    {
+        "tipo": 3,
+        "nombres": "Eick Boris",
+        "apellidos": "Vargas Dorado",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "A15L153296",
+                "direccion": "21 de Septiembre",
+                "orden": "229",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 3,
+        "nombres": "Victor",
+        "apellidos": "Foronda Benavides",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "LAO_B",
+                "direccion": "21 de Septiembre",
+                "orden": "230",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 3,
+        "nombres": "Eliseo",
+        "apellidos": "Uzieda Vargas",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A16L044058",
+                "direccion": "21 de Septiembre",
+                "orden": "231",
+                "fechaInstalacion": "2016/06/02",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Julia",
+        "apellidos": "Choquevilca Mamani",
+        "ci": "4496165",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "A15L148049",
+                "direccion": "21 de Septiembre",
+                "orden": "232",
+                "fechaInstalacion": "2016/03/25",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313713
+        ]
+    },
+
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Julyata",
+        "apellidos": "Flores Cruz",
+        "ci": "7863817",
+        "fechaNacimiento": "1986/01/09",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "059219-15",
+                "direccion": "21 de Septiembre",
+                "orden": "233",
+                "fechaInstalacion": "2016/03/25",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313713
+        ]
+
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Luz Maribel",
+        "apellidos": "Nolasco Aguilar",
+        "ci": "5194378",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A15L146499",
+                "direccion": "21 de Septiembre",
+                "orden": "234",
+                "fechaInstalacion": "2016/03/25",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313713
+        ]
+
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Sandra Elizabeth",
+        "apellidos": "Ledezma Enrriquez",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A15L266343",
+                "direccion": "21 de Septiembre",
+                "orden": "235",
+                "fechaInstalacion": "2016/03/25",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313713
+        ]
+
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Marina",
+        "apellidos": "Gamboa Vargas",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "059936-15",
+                "direccion": "21 de Septiembre",
+                "orden": "236",
+                "fechaInstalacion": "2016/03/25",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313713
+        ]
+
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Rosmery",
+        "apellidos": "Zeballos Alave",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "Lote",
+                "direccion": "21 de Septiembre",
+                "orden": "237",
+                "fechaInstalacion": "2016/03/25",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313713
+        ]
+
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Zoraida Vanesa",
+        "apellidos": "Rios Moreira",
+        "ci": "8159049",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "A1",
+                "direccion": "21 de Septiembre",
+                "orden": "238",
+                "fechaInstalacion": "2016/03/25",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313713
+        ]
+
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Jorge",
+        "apellidos": "Chavez",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "LAOX_A",
+                "direccion": "21 de Septiembre",
+                "orden": "239",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            },
+            "medidor2": {
+                "numero": "LAOX_B",
+                "direccion": "21 de Septiembre",
+                "orden": "240",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 0.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Alvina",
+        "apellidos": "Condori Fernandez",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "LAOE_D",
+                "direccion": "21 de Septiembre",
+                "orden": "241",
+                "fechaInstalacion": "2016/03/25",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 4176.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313713
+        ]
+    },
+
+
+    {
+        "tipo": 2,
+        "nombres": "Maribel",
+        "apellidos": "Vasquez Torrico",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "F",
+        "email": "",
+        "ico": "Mujer_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "LAOE_A",
+                "direccion": "21 de Septiembre",
+                "orden": "242",
+                "fechaInstalacion": "2016/03/25",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 4176.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313713
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Jose Limbert",
+        "apellidos": "Teran Benavides",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_1",
+        "medidores": {
+            "medidor1": {
+                "numero": "LAOE_B",
+                "direccion": "21 de Septiembre",
+                "orden": "243",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            },
+            "medidor2": {
+                "numero": "LAOE_C",
+                "direccion": "21 de Septiembre",
+                "orden": "244",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Victor",
+        "apellidos": "Cachaca Janko",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "A17265340A",
+                "direccion": "21 de Septiembre",
+                "orden": "245",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    },
+
+
+
+
+    {
+        "tipo": 2,
+        "nombres": "Juan",
+        "apellidos": "Martinez Lima",
+        "ci": "",
+        "fechaNacimiento": "",
+        "sexo": "M",
+        "email": "",
+        "ico": "Varon_2",
+        "medidores": {
+            "medidor1": {
+                "numero": "A12L25140",
+                "direccion": "21 de Septiembre",
+                "orden": "246",
+                "fechaInstalacion": "2016/06/01",
+                "estado": null,
+                "lectura": 0,
+                "compra": {
+                    "precio": 3500.00,
+                    "moneda": "Bolivianos",
+                    "tipo": "EFECTIVO"
+                }
+            }
+        },
+        "telefonos": [
+            31313313
+        ]
+    }
+]

@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html lang="es">
+<!--[if IE 9 ]><html class="ie9"><![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- PWA desde aqui segun el video-->
+        <!-- Para pintar de color la barra de navegador de un navegador-->
+        <meta name="theme-color" content="#222">
+        <!-- Para decirle a los navegadores que tu sitio esta optimizado para moviles y que el sitio es amigable -->
+        <meta name="MobileOptimized" content="width">
+        <meta name="HandheldFriendly" content="true">
+        <!-- PWA para apple-->
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+        <!-- icono-->
+        <link rel="shortcut icon" type="image/png" href="../../assets/img/ico.png">
+        <!-- Pantalla de inicio-->
+        <link rel="apple-touch-icon" href="../../assets/img/ico.png">
+        <link rel="apple-touch-startup-image" href="../../assets/img/ico.png">
+        <!-- importante -->
+        <link rel="manifest" href="manifest.json">
+
+
+
+        <title>CAP-21 PWA</title>
+
+        <!-- Vendors -->
+
+        <!-- Animate CSS -->
+        <link href="../../vendors/animate.css/animate.min.css" rel="stylesheet">
+
+        <!-- Material Design Icons -->
+        <link href="../../vendors/material-design-iconic-font/dist/css/material-design-iconic-font.min.css" rel="stylesheet">
+
+        <!-- Malihu Scrollbar -->
+        <link href="../../vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.min.css" rel="stylesheet">
+
+        <!-- Select 2 -->
+        <link href="../../vendors/select2/dist/css/select2.min.css" rel="stylesheet">
+
+        <!-- Site CSS -->
+        <link href="../../assets/css/app-1.min.css" rel="stylesheet">
+
+        <!-- Page loader -->
+        <script src="../../assets/js/page-loader.min.js"></script>
+
+        
+<!-- backdrop CRGT STYLE  -->
+        <link href="../../assets/css/bacdrop.css" rel="stylesheet">
+    </head>
+    
+    <body>
+        
+<br><br><br>
+            <section id="content">
+                <div class="row">
+                    <div class="col-md-3">
+
+                        <div class="card">
+                            <div class="card__header">
+                                <h2 align="center"><img class="avatar-img" src="../../assets/img/usuarios/ees.png" alt=""> <br><br> Aviso Importante<small>Este socio cuenta con 2 acciones, elige la correcta para poder realizar el pago.</small></h2>
+                            </div>
+                        </div>
+                            <!-- Profile -->
+                        <div class="card widget-profile">
+                            <div class="card__header card__header--highlight text-center">
+                                <img src="../../assets/img/usuarios/boy-5.png"  class="widget-profile__img" alt="">
+                                <h2>Acción Nº 152<small>Gustavo Angel Cerezo Mamani</small> </h2>
+
+                                <button class="btn btn--float"><i class="zmdi zmdi-thumb-up"></i></button>
+                            </div>
+
+                            <div class="list-group list-group--striped">
+                                <div class="list-group-item media">
+                                    <div class="pull-left">
+                                        <div class="avatar-char"><i class="zmdi zmdi-pin"></i></div>
+                                    </div>
+                                    <div class="media-body">
+                                        <div class="list-group__heading">21 de Septiembre</div>
+                                        <small class="list-group__text">Dirección</small>
+                                    </div>
+                                </div>
+                                <div class="list-group-item media">
+                                    <div class="pull-left">
+                                        <div class="avatar-char"><i class="zmdi zmdi-phone"></i></div>
+                                    </div>
+                                    <div class="media-body">
+                                        <div class="list-group__heading">+591 6626****4</div>
+                                        <small class="list-group__text">Telefono</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Profile -->
+                        <div class="card widget-profile">
+                            <div class="card__header card__header--highlight text-center">
+                                <img src="../../assets/img/usuarios/boy-5.png"  class="widget-profile__img" alt="">
+                                <h2>Acción Nº 248<small>Gustavo Angel Cerezo Mamani</small> </h2>
+
+                                <button class="btn btn--float"><i class="zmdi zmdi-thumb-up"></i></button>
+                            </div>
+
+                            <div class="list-group list-group--striped">
+                                <div class="list-group-item media">
+                                    <div class="pull-left">
+                                        <div class="avatar-char"><i class="zmdi zmdi-pin"></i></div>
+                                    </div>
+                                    <div class="media-body">
+                                        <div class="list-group__heading">Teniente venavides</div>
+                                        <small class="list-group__text">Dirección</small>
+                                    </div>
+                                </div>
+                                <div class="list-group-item media">
+                                    <div class="pull-left">
+                                        <div class="avatar-char"><i class="zmdi zmdi-phone"></i></div>
+                                    </div>
+                                    <div class="media-body">
+                                        <div class="list-group__heading">+591 6626****4</div>
+                                        <small class="list-group__text">Telefono</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        
+
+                    </div>
+                    <div class="col-md-9">
+                        <div class="content__header">
+                            <h2 align="right">Acción Nº 248 <small>Gustavo Angel Cerezo Mamani.</small></h2>
+                        </div>
+                        <div class="card"><br>
+                                <div class="tab-wizard">
+                                    <ul class="tab-nav tab-nav--centered tab-wizard__nav">
+                                        <li class="active"><a href="#tab-wizard-1" data-toggle="tab">Consumo de Agua</a></li>
+                                        <li><a href="#tab-wizard-2" data-toggle="tab">Multas Asambleas</a></li>
+                                        <li><a href="#tab-wizard-3" data-toggle="tab">Aporte Pozo</a></li>
+                                    </ul>
+        
+                                    <div class="tab-content">
+                                        <div class="tab-pane active fade in" id="tab-wizard-1">
+                                            <div class="card"> <div class="content__header">
+                                                <h2 align="right">Consumo: Bs.- 67.00 <small>Multa: Bs.- 60.00.</small></h2>
+                                            </div>
+                                                <div class="card__body">
+                                                    <div class="table-responsive">
+                                                        <table class="table table-striped">
+                                                            <thead>
+                                                                <tr>
+                                                                    <th>Fecha</th>
+                                                                    <th>Número Recivo</th>
+                                                                    <th>Lec. Anterior</th>
+                                                                    <th>Lec. Actual</th>
+                                                                    <th>Pago</th>
+                                                                    <th>Consumo</th>
+                                                                    <th>Multa</th>
+                                                                    <th>Acción</th>
+                                                                </tr>
+                                                            </thead>
+                                                            <tbody>
+                                                            <tr>
+                                                                <td>2020- Enero </td>
+                                                                <td>00000</td>
+                                                                <td>43243</td>
+                                                                <td>43243</td>
+                                                                <td><div class="alert alert-info">NO</div></td>
+                                                                <td><div class="alert alert-warning"> Bs.- 11.00</div></td>
+                                                                <td><div class="alert alert-warning">Bs.- 30.00</div></td>
+                                                                <td><button class="btn btn--light btn--icon" data-trigger="hover" data-toggle="popover" data-placement="top" title="" data-original-title="Pagar sin recivo" ><i class="zmdi zmdi-card"></i></button>
+                                                                    <a href="imprimirRecivo.html">
+                                                                        <button class="btn btn-success btn--icon" data-trigger="hover" data-toggle="popover" data-placement="top" title="" data-original-title="Pagar e imprimir" ><i class="zmdi zmdi-local-printshop"></i> </button>
+                                                                    </a>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>2019 - Diciembre</td>
+                                                                <td>00000</td>
+                                                                <td>3737</td>
+                                                                <td>43243</td>
+                                                                <td><div class="alert alert-info">NO</div></td>
+                                                                <td><div class="alert alert-warning"> Bs.- 12.00</div></td>
+                                                                <td> Bs.- 0.00</td>
+                                                                <td><button class="btn btn--light btn--icon" data-trigger="hover" data-toggle="popover" data-placement="top" title="" data-original-title="Pagar sin recivo" ><i class="zmdi zmdi-card"></i></button>
+                                                                    <a href="imprimirRecivo.html">
+                                                                        <button class="btn btn-success btn--icon" data-trigger="hover" data-toggle="popover" data-placement="top" title="" data-original-title="Pagar e imprimir" ><i class="zmdi zmdi-local-printshop"></i> </button>
+                                                                    </a>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>2019 - Noviembre</td>
+                                                                <td>00000</td>
+                                                                <td>3273</td>
+                                                                <td>43243</td>
+                                                                <td><div class="alert alert-info">NO</div></td>
+                                                                <td><div class="alert alert-warning"> Bs.- 11.00</div></td>
+                                                                <td> Bs.- 0.00</td>
+                                                                <td><button class="btn btn--light btn--icon" data-trigger="hover" data-toggle="popover" data-placement="top" title="" data-original-title="Pagar sin recivo" ><i class="zmdi zmdi-card"></i></button>
+                                                                    <a href="imprimirRecivo.html">
+                                                                        <button class="btn btn-success btn--icon" data-trigger="hover" data-toggle="popover" data-placement="top" title="" data-original-title="Pagar e imprimir" ><i class="zmdi zmdi-local-printshop"></i> </button>
+                                                                    </a>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>2019 - Octubre</td>
+                                                                <td>00000</td>
+                                                                <td>737</td>
+                                                                <td>43243</td>
+                                                                <td><div class="alert alert-info">NO</div></td>
+                                                                <td><div class="alert alert-warning"> Bs.- 11.00</div></td>
+                                                                <td><div class="alert alert-warning">Bs.- 30.00</div></td>
+                                                                <td><button class="btn btn--light btn--icon" data-trigger="hover" data-toggle="popover" data-placement="top" title="" data-original-title="Pagar sin recivo" ><i class="zmdi zmdi-card"></i></button>
+                                                                    <a href="imprimirRecivo.html">
+                                                                        <button class="btn btn-success btn--icon" data-trigger="hover" data-toggle="popover" data-placement="top" title="" data-original-title="Pagar e imprimir" ><i class="zmdi zmdi-local-printshop"></i> </button>
+                                                                    </a>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>2019 - Septiembre</td>
+                                                                <td>00000</td>
+                                                                <td>3766</td>
+                                                                <td>43243</td>
+                                                                <td><div class="alert alert-info">NO</div></td>
+                                                                <td><div class="alert alert-warning"> Bs.- 11.00</div></td>
+                                                                <td> Bs.- 0.00</td>
+                                                                <td><button class="btn btn--light btn--icon" data-trigger="hover" data-toggle="popover" data-placement="top" title="" data-original-title="Pagar sin recivo" ><i class="zmdi zmdi-card"></i></button>
+                                                                    <a href="imprimirRecivo.html">
+                                                                        <button class="btn btn-success btn--icon" data-trigger="hover" data-toggle="popover" data-placement="top" title="" data-original-title="Pagar e imprimir" ><i class="zmdi zmdi-local-printshop"></i> </button>
+                                                                    </a>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>2019 - Agosto</td>
+                                                                <td>00000</td>
+                                                                <td>4465</td>
+                                                                <td>43243</td>
+                                                                <td><div class="alert alert-info">NO</div></td>
+                                                                <td><div class="alert alert-warning"> Bs.- 11.00</div></td>
+                                                                <td> Bs.- 0.00</td>
+                                                                <td><button class="btn btn--light btn--icon" data-trigger="hover" data-toggle="popover" data-placement="top" title="" data-original-title="Pagar sin recivo" ><i class="zmdi zmdi-card"></i></button>
+                                                                    <a href="imprimirRecivo.html">
+                                                                        <button class="btn btn-success btn--icon" data-trigger="hover" data-toggle="popover" data-placement="top" title="" data-original-title="Pagar e imprimir" ><i class="zmdi zmdi-local-printshop"></i> </button>
+                                                                    </a>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>2019 - Julio</td>
+                                                                <td>3513516</td>
+                                                                <td>4359</td>
+                                                                <td>43243</td>
+                                                                <td>SI</td>
+                                                                <td> Bs.- 10.00</td>
+                                                                <td> Bs.- 0.00</td>
+                                                                <td><button class="btn btn--light btn--icon" data-trigger="hover" data-toggle="popover" data-placement="top" title="" data-original-title="Ver Recivo" ><i class="zmdi zmdi-eye"></i></button>
+                                                                    <button class="btn btn-danger btn--icon" data-trigger="hover" data-toggle="popover" data-placement="top" title="" data-original-title="Anular Recivo" ><i class="zmdi zmdi-card"></i></button>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>2019 - Junio</td>
+                                                                <td>3313</td>
+                                                                <td>93453</td>
+                                                                <td>43243</td>
+                                                                <td>SI</td>
+                                                                <td> Bs.- 10.00</td>
+                                                                <td> Bs.- 0.00</td>
+                                                                <td><button class="btn btn--light btn--icon" data-trigger="hover" data-toggle="popover" data-placement="top" title="" data-original-title="Ver Recivo" ><i class="zmdi zmdi-eye"></i></button>
+                                                                    <button class="btn btn-danger btn--icon" data-trigger="hover" data-toggle="popover" data-placement="top" title="" data-original-title="Anular Recivo" ><i class="zmdi zmdi-card"></i></button>
+                                                                </td>
+                                                            </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="tab-pane fade" id="tab-wizard-2">
+                                            <div class="card">
+            
+                                                <div class="card__body">
+                                                    <div class="table-responsive">
+                                                        <table class="table table-striped">
+                                                            <thead>
+                                                                <tr>
+                                                                    <th>Fecha</th>
+                                                                    <th>Motivo</th>
+                                                                    <th>Número Recivo</th>
+                                                                    <th>Asistencia</th>
+                                                                    <th>Multa</th>
+                                                                    <th>Acción</th>
+                                                                </tr>
+                                                            </thead>
+                                                            <tbody>
+                                                            <tr>
+                                                                <td>(Año 1º) 2020 - (Mes 2º) Enero</td>
+                                                                <td>Reunion OTB-21</td>
+                                                                <td>00000</td>
+                                                                <td><div class="alert alert-warning">NO</div></td>
+                                                                <td><div class="alert alert-warning">BS.- 50.00</div></td>
+                                                                <td><button class="btn btn--light btn--icon"><i class="zmdi zmdi-card"></i></button>
+                                                                    <a href="imprimirRecivo.html">
+                                                                        <button class="btn btn-success btn--icon"><i class="zmdi zmdi-local-printshop"></i> </button>
+                                                                    </a>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>2019 - Diciembre</td>
+                                                                <td>Reunion OTB-21</td>
+                                                                <td>562213</td>
+                                                                <td>SI</td>
+                                                                <td>Bs.- 0.00</td>
+                                                                <td>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>2019 - Noviembre</td>
+                                                                <td>Reunion OTB-21</td>
+                                                                <td>00000</td>
+                                                                <td><div class="alert alert-warning">NO</div></td>
+                                                                <td>BS.- 0.00</td>
+                                                                <td><button class="btn btn--light btn--icon"><i class="zmdi zmdi-eye"></i></button>
+                                                                    <a href="imprimirRecivo.html">
+                                                                        <button class="btn btn-danger btn--icon"data-trigger="hover" data-toggle="popover" data-placement="top" title="" data-original-title="Anular Recivo"><i class="zmdi zmdi-format-color-reset"></i> </button>
+                                                                    </a>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>2019 - Octubre</td>
+                                                                <td>Reunion OTB-21</td>
+                                                                <td>15684</td>
+                                                                <td>SI</td>
+                                                                <td>Bs.- 0.00</td>
+                                                                <td>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>2019 - Septiembre</td>
+                                                                <td>Reunion OTB-21</td>
+                                                                <td>15684</td>
+                                                                <td>SI</td>
+                                                                <td>Bs.- 0.00</td>
+                                                                <td>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>2019 - Agosto</td>
+                                                                <td>Reunion OTB-21</td>
+                                                                <td>295684</td>
+                                                                <td>SI</td>
+                                                                <td>Bs.- 0.00</td>
+                                                                <td>
+                                                                </td>
+                                                            </tr>
+                                                            
+                                                            </tbody>
+                                                        </table>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="tab-pane fade" id="tab-wizard-3">
+                                            <div class="card">
+                                                <div class="card__body">
+                                                    <div class="card widget-analytic">
+                                                        <div class="col-sm-12">
+                                                            <div class="table-responsive">
+                                                                <table class="table table-striped">
+                                                                    <thead>
+                                                                        <tr>
+                                                                            <th>Fecha</th>
+                                                                            <th>Recivo Nº</th>
+                                                                            <th>Monto</th>
+                                                                            <th>Pagó</th>
+                                                                            <th>Saldo</th>
+                                                                            <th>Acción</th>
+                                                                        </tr>
+                                                                    </thead>
+                                                                    <tbody>
+                                                                    <tr>
+                                                                        <td>2020 - Enero</td>
+                                                                        <td>00000</td>
+                                                                        <td>Bs.- 500.00</td>
+                                                                        <td>Bs.- 200.00</td>
+                                                                        <td>Bs.- 0.00</td>
+                                                                        <td>
+                                                                            <a href="imprimirRecivo.html">
+                                                                                <button class="btn btn-success btn--icon"><i class="zmdi zmdi-eye"></i> </button>
+                                                                            </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>2019 - Diciembre</td>
+                                                                        <td>562213</td>
+                                                                        <td>Bs.- 500.00</td>
+                                                                        <td>Bs.- 300.00</td>
+                                                                        <td>Bs.- 200.00</td>
+                                                                        <td>
+                                                                            <a href="imprimirRecivo.html">
+                                                                                <button class="btn btn-success btn--icon"><i class="zmdi zmdi-local-printshop"></i> </button>
+                                                                            </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                   
+                                                                    
+                                                                    </tbody>
+                                                                </table>
+                                                            </div>
+                                                        </div>
+                                                        
+
+                                                        <div class="card__header">
+                                                            <h2 align="center"><img src="../../assets/img/tanke3.png" width="10%" alt=""> <br><br> Aporte Nuevo Pozo<small>En caso que falte completar el aporte, el sistem seguira mostrando como incompleto.</small></h2>
+                                                        </div>
+                                                        <form name="formularioAportePozo" id="formularioAportePozo">
+                                                        <div class="card__body">
+                                                            <div class="input-group">
+                                                                <div class="form-group">
+                                                                    <span class="input-group-addon"></span>
+                                                                    <div class="form-group">
+                                                                        <input type="text" class="form-control text-center" placeholder="Bs.- 500.00" disabled>
+                                                                        <i class="form-group__bar"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <span class="input-group-addon"><button type="submit" class="btn btn-default btn--icon"><i class="zmdi zmdi-balance"></i></button></span>
+                                                                <div class="form-group">
+                                                                    <input type="number" name="cuotaPozo" class="form-control text-center" placeholder="Bs.- ">
+                                                                    <i class="form-group__bar"></i>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        </form>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+            <footer id="footer">
+                Copyright &copy; s@u-Crgt 2020
+
+                <ul class="footer__menu">
+                    <li><a href="#">¿Problemas?</a></li>
+                    <li><a href="#">Inicio</a></li>
+                    <li><a href="#">¡Soporte!</a></li>
+                </ul>
+            </footer>
+    
+    
+            <!-- Older IE Warning -->
+            <!--[if lt IE 9]>
+                <div class="ie-warning">
+                    <h1>Warning!!</h1>
+                    <p>You are using an outdated version of Internet Explorer, please upgrade <br/>to any of the following web browsers to access this website.</p>
+                    <div class="ie-warning__container">
+                        <ul class="ie-warning__download">
+                            <li>
+                                <a href="http://www.google.com/chrome/">
+                                    <img src="img/browsers/chrome.png" alt="">
+                                    <div>Chrome</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.mozilla.org/en-US/firefox/new/">
+                                    <img src="img/browsers/firefox.png" alt="">
+                                    <div>Firefox</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.opera.com">
+                                    <img src="img/browsers/opera.png" alt="">
+                                    <div>Opera</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.apple.com/safari/">
+                                    <img src="img/browsers/safari.png" alt="">
+                                    <div>Safari</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">
+                                    <img src="img/browsers/ie.png" alt="">
+                                    <div>IE (New)</div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <p>Sorry for the inconvenience!</p>
+                </div>
+            <![endif]-->
+    
+    
+            <!-- Javascript Libraries -->
+    
+            <!-- jQuery -->
+            <script src="../../vendors/jquery/dist/jquery.min.js"></script>
+    
+            <!-- Bootstrap -->
+            <script src="../../vendors/bootstrap/dist/js/bootstrap.min.js"></script>
+    
+            <!-- Malihu ScrollBar -->
+            <script src="../../vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
+    
+            <!-- Bootstrap Notify -->
+            <script src="../../vendors/remarkable-bootstrap-notify/dist/bootstrap-notify.min.js"></script>
+
+            <!-- Bootstrap Wizard -->
+            <script src="../../vendors/twitter-bootstrap-wizard/jquery.bootstrap.wizard.min.js"></script>
+
+            <!-- Moment -->
+            <script src="../../vendors/moment/min/moment.min.js"></script>
+
+            <!-- Simple Weather -->
+            <script src="../../vendors/simpleWeather/jquery.simpleWeather.min.js"></script>
+    
+            <!-- Salvattore -->
+            <script src="../../vendors/salvattore/dist/salvattore.min.js"></script>
+
+            <!-- Select 2 -->
+            <script src="../../vendors/select2/dist/js/select2.full.min.js"></script>
+    
+            <!-- Placeholder for IE9 -->
+            <!--[if IE 9 ]>
+                <script src="vendors/jquery-placeholder/jquery.placeholder.min.js"></script>
+            <![endif]-->
+    
+            <!-- Demo Only -->
+            <script src="../../assets/demo/js/flot-charts/curved-line.js"></script>
+            <script src="../../assets/demo/js/flot-charts/line.js"></script>
+            <script src="../../assets/demo/js/easy-pie-charts.js"></script>
+            <script src="../../assets/demo/js/flot-charts/bar.js"></script>
+            <script src="../../assets/demo/js/sparkline-charts.js"></script>
+            <script src="../../assets/demo/js/calendar.js"></script>
+
+            <!-- Site Functions & Actions -->
+            <script src="../../assets/js/app.min.js"></script>
+    
+            <!-- PWA script -->
+            <script src="script.js"></script>
+
+            <!-- Objetos Accion -->
+            <script src="../../src/formularioAportePozo.js"></script>
+            <!-- <script src="../../src/verify.js"></script> -->
+        </body>
+    </html>
+    

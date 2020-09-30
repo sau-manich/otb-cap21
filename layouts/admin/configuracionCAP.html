@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="es">
+<!--[if IE 9 ]><html class="ie9"><![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- PWA desde aqui segun el video-->
+        <!-- Para pintar de color la barra de navegador de un navegador-->
+        <meta name="theme-color" content="#222">
+        <!-- Para decirle a los navegadores que tu sitio esta optimizado para moviles y que el sitio es amigable -->
+        <meta name="MobileOptimized" content="width">
+        <meta name="HandheldFriendly" content="true">
+        <!-- PWA para apple-->
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+        <!-- icono-->
+        <link rel="shortcut icon" type="image/png" href="../../assets/img/ico.png">
+        <!-- Pantalla de inicio-->
+        <link rel="apple-touch-icon" href="../../assets/img/ico.png">
+        <link rel="apple-touch-startup-image" href="../../assets/img/ico.png">
+        <!-- importante -->
+        <link rel="manifest" href="manifest.json">
+
+
+
+        <title>CAP-21 PWA</title>
+
+        <!-- Vendors -->
+
+         <!-- Animate CSS -->
+         <link href="../../vendors/animate.css/animate.min.css" rel="stylesheet">
+
+         <!-- Material Design Icons -->
+         <link href="../../vendors/material-design-iconic-font/dist/css/material-design-iconic-font.min.css" rel="stylesheet">
+ 
+         <!-- Malihu Scrollbar -->
+         <link href="../../vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.min.css" rel="stylesheet">
+ 
+         <!-- SweetAlert -->
+         <link href="../../vendors/sweetalert2/dist/sweetalert2.min.css" rel="stylesheet">
+ 
+         <!-- Full Calendar -->
+         <link href="../../vendors/fullcalendar/dist/fullcalendar.min.css" rel="stylesheet">
+ 
+         <!-- Demo only -->
+         <link href="../../assets/demo/css/demo.css" rel="stylesheet">
+ 
+         <!-- Site CSS -->
+         <link href="../../assets/css/app-1.min.css" rel="stylesheet">
+ 
+         <!-- Page loader -->
+         <script src="../../assets/js/page-loader.min.js"></script>
+    </head>
+    
+    <body>
+        <!-- backdrop CRGT  -->
+        <!-- <div id="validate-modal" class="modal-validate">
+            <div class="modal-validate-content">
+                <p id="modal-text"></p>
+            </div>
+        </div> -->
+        
+        <!-- Page Loader -->
+        <div id="page-loader">
+            <div class="preloader preloader--xl preloader--light">
+                <svg viewBox="25 25 50 50">
+                    <circle cx="50" cy="50" r="20" />
+                </svg>
+            </div>
+        </div>
+
+        <!-- Header -->
+        <header id="header">
+            <div class="logo">
+                <a href="index.html"  class="hidden-xs" align="center">
+                    CAP-21
+                    <small>Sistema de Cobro</small>
+                </a>
+                <i class="logo__trigger zmdi zmdi-menu" data-mae-action="block-open" data-mae-target="#navigation"></i>
+            </div>
+
+            <ul class="top-menu">
+
+                <li class="top-menu__trigger hidden-lg hidden-md">
+                    <h4 style="margin-left: -30%;">CAP-21</h4>
+                    <h6 style="margin-left: -55%;">Sistema Cobro OTB</h6>
+                </li>
+                
+                <li class="top-menu__apps dropdown hidden-xs hidden-sm">
+                    <a data-toggle="dropdown" href="index.html">
+                        <i class="zmdi zmdi-globe"></i>
+                    </a>
+                    <!-- <ul class="dropdown-menu pull-right">
+                            <li>
+                                <a href="">
+                                    <i class="zmdi zmdi-cloud-off"></i>
+                                    <small>Problemas</small>
+                                </a>
+                            </li>
+                              <li>
+                                  <a href="">
+                                      <i class="zmdi zmdi-calendar"></i>
+                                      <small>Calendario</small>
+                                  </a>
+                              </li>
+                              <li>
+                                  <a href="">
+                                      <i class="zmdi zmdi-trending-up"></i>
+                                      <small>Reportes</small>
+                                  </a>
+                              </li>
+                          </ul> -->
+                </li>
+                <li class="dropdown hidden-xs">
+                    <a data-toggle="dropdown" href=""><i class="zmdi zmdi-more-vert"></i></a>
+                    <ul class="dropdown-menu dropdown-menu--icon pull-right">
+                        <li class="hidden-xs">
+                            <a data-mae-action="fullscreen" href=""><i class="zmdi zmdi-fullscreen"></i> Pantalla Completa</a>
+                        </li>
+                        <li>
+                            <a data-mae-action="clear-localstorage" href=""><i class="zmdi zmdi-delete"></i> Eliminar Caches</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="top-menu__alerts" data-mae-action="block-open" data-mae-target="#notifications" data-toggle="tab" data-target="#notifications__messages">
+                    <a href=""><i class="zmdi zmdi-widgets"></i></a>
+                </li>
+                <!-- <li class="top-menu__profile dropdown">
+                    <a data-toggle="dropdown" href="">
+                        <img src="../../assets/img/usuarios/images.png" alt="">
+                    </a>
+
+                    <ul class="dropdown-menu pull-right dropdown-menu--icon">
+                        <li>
+                            <a href="perfil.html"><i class="zmdi zmdi-account"></i> Ver Perfil</a>
+                        </li>
+                        <li>
+                            <a href=""><i class="zmdi zmdi-input-antenna"></i> Comprobar Red</a>
+                        </li>
+                        <li>
+                            <a data-mae-action="fullscreen" href=""><i class="zmdi zmdi-fullscreen"></i> Pantalla Completa</a>
+                        </li>
+                        <li>
+                            <a href="../../index.html"><i class="zmdi zmdi-time-restore"></i> Salir</a>
+                        </li>
+                    </ul>
+                </li> -->
+            </ul>
+
+             
+
+            <form class="top-search">
+                <input type="text" class="top-search__input" placeholder="Busquemos por número de recibo.." disabled>
+                <i class="zmdi zmdi-search top-search__reset"></i>
+            </form>
+        </header>
+
+        <section id="main">
+            <aside id="notifications">
+                <ul class="tab-nav tab-nav--justified tab-nav--icon">
+                    <li><a class="user-alert__messages" href="#notifications__messages" data-toggle="tab"><i class="zmdi zmdi-balance"></i></a></li>
+                    <li><a class="user-alert__notifications" href="#notifications__updates" data-toggle="tab"><i class="zmdi zmdi-email"></i></a></li>
+                    <li><a class="user-alert__tasks" href="#notifications__tasks" data-toggle="tab"><i class="zmdi zmdi-assignment-account"></i></a></li>
+                </ul>
+
+                <div class="tab-content">
+                    <div class="tab-pane" id="notifications__messages">
+                        <div id="contacto">
+                        <div class="list-group">
+                            <!-- <a class="list-group-item media">
+                                <div class="pull-left">
+                                    <img class="avatar-img" src="../../assets/img/usuarios/man.png" alt="">
+                                </div>
+
+                                <div class="media-body">
+                                    <div class="list-group__heading">Fulano Villa Jacobs</div>
+                                    <small class="list-group__text">Directiva - 79866165</small>
+                                </div>
+                            </a>
+
+                            <a href="" class="list-group-item media">
+                                <div class="pull-left">
+                                    <img class="avatar-img" src="../../assets/img/usuarios/boy-1.png" alt="">
+                                </div>
+                                <div class="media-body">
+                                    <div class="list-group__heading">Fulana de Barnes</div>
+                                    <small class="list-group__text">Directiva - 79866165</small>
+                                </div>
+                            </a>
+
+                            <a href="" class="list-group-item media">
+                                <div class="pull-left">
+                                    <img class="avatar-img" src="../../assets/img/usuarios/girl-7.png" alt="">
+                                </div>
+                                <div class="media-body">
+                                    <div class="list-group__heading">Fulanito de Lawson</div>
+                                    <small class="list-group__text">Directiva - 79866165</small>
+                                </div>
+                            </a>
+
+                            <a href="" class="list-group-item media">
+                                <div class="pull-left">
+                                    <img class="avatar-img" src="../../assets/img/usuarios/girl-5.png" alt="">
+                                </div>
+                                <div class="media-body">
+                                    <div class="list-group__heading">Fulanita de Mckinney</div>
+                                    <small class="list-group__text">Directiva - 79866165</small>
+                                </div>
+                            </a>
+
+                            <a href="" class="list-group-item media">
+                                <div class="pull-left">
+                                    <img class="avatar-img" src="../../assets/img/usuarios/boy-4.png" alt="">
+                                </div>
+                                <div class="media-body">
+                                    <div class="list-group__heading">Fulanisos Rudolph Perez</div>
+                                    <small class="list-group__text">Directiva - 79866165</small>
+                                </div>
+                            </a> -->
+                        </div>
+                        </div>
+                    </div>
+
+                    <div class="tab-pane" id="notifications__updates">
+                        <!-- <div class="card__header card__header--highlight text-center">
+                            <img src="../../assets/img/not.png" width="40%" class="widgset-profile__img" alt="">
+                            <h2>Mensaje CAP-21<small>Se capturara la hora y fecha</small> </h2>
+
+                            <button class="btn btn--float" href="avisos.html" ><i class="zmdi zmdi-email-open"></i></button>
+                        </div> -->
+                        <div id="mensajeNotificacion">
+                        <div class="list-group">
+                            <a class="list-group-item media" data-toggle="modal" href="#modal--large">
+                                <div class="pull-right">
+                                    <img class="avatar-img" src="../../assets/img/usuarios/boy-3.png" alt="">
+                                </div>
+
+                                <div class="media-body">
+                                    <div class="list-group__heading">Fulano Villa Jacobs</div>
+                                    <small class="list-group__text">Mensaje CAP-21</small>
+                                </div>
+                            </a>
+
+                            <a class="list-group-item media" data-toggle="modal" href="#modal--large">
+                                <div class="pull-right">
+                                    <img class="avatar-img" src="../../assets/img/usuarios/girl.png" alt="">
+                                </div>
+                                <div class="list-group__heading">Fulana Candice Barnes</div>
+                                <small class="list-group__text">Mensaje CAP-21</small>
+                            </a>
+
+                            <a class="list-group-item media" data-toggle="modal" href="#modal--large">
+                                <div class="pull-right">
+                                    <img class="avatar-img" src="../../assets/img/usuarios/girl.png" alt="">
+                                </div>
+                                <div class="list-group__heading"> Fulanillo Jeannette Lawson</div>
+                                <small class="list-group__text">Mensaje CAP-21</small>
+                            </a>
+
+                            <a class="list-group-item media" data-toggle="modal" href="#modal--large">
+                                <div class="pull-right">
+                                    <img class="avatar-img" src="../../assets/img/usuarios/boy-4.png" alt="">
+                                </div>
+                                <div class="media-body">
+                                    <div class="list-group__heading">Filancirigillo </div>
+                                    <small class="list-group__text">Mensaje CAP-21</small>
+                                </div>
+                            </a>
+
+                            <a class="list-group-item media" data-toggle="modal" href="#modal--large">
+                                <div class="pull-right">
+                                    <img class="avatar-img" src="../../assets/img/usuarios/girl.png" alt="">
+                                </div>
+                                <div class="media-body">
+                                    <div class="list-group__heading">Rudolph Perez</div>
+                                    <small class="list-group__text">Mensaje CAP-21</small>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    </div>
+
+                    <div class="tab-pane" id="notifications__tasks">
+                        <div class="card widget-profile">
+                            <div class="card__header card__header--highlight text-center">
+                                <img src="../../assets/img/hab.png" width="30%" alt=""><br><br>
+                                <h2>Operador Técnico<small>¿Decea actualizar su cuenta?</small> </h2>
+
+                                <button class="btn btn--float"><i class="zmdi zmdi-power"></i></button>
+                            </div>
+
+                            <form>
+                                <div class="login__block__body">
+                
+                                    <div class="form-group form-group--float form-group--centered">
+                                        <input type="text" name="email" class="form-control">
+                                        <label>Usuario nuevo</label>
+                                        <i class="form-group__bar"></i>
+                                    </div>
+                
+                                    <div class="form-group form-group--float form-group--centered">
+                                        <input id="passRemenber" type="password" name="contrasena" class="form-control" autocomplete="off"/>
+                                        <label>Contraseña nueva</label>
+                                        <i class="form-group__bar"></i>
+                                    </div>
+                
+                                    <div class="input-centered">
+                                        <h3 align="center"><button class="btn btn--light btn--icon m-t-15"><i class="zmdi zmdi-plus"></i></button></h3>
+                                    </div>
+                
+                                    
+                                </div>
+                                <!-- <a href="" class="btn btn--float">
+                                    <i class="zmdi zmdi-plus"></i>
+                                </a> -->
+                                </form>
+                        </div>
+                        <!-- <div class="list-group">
+                            <div class="list-group-item">
+                                <div class="list-group__heading m-b-5">Rendimiento CAP-21 onLine</div>
+
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width: 95%">
+                                        <span class="sr-only">95% Complete (success)</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="list-group-item">
+                                <div class="list-group__heading m-b-5">Rendimiento CAP-21 offLine</div>
+
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width: 45%">
+                                        <span class="sr-only">95% Complete (success)</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="list-group-item">
+                                <div class="list-group__heading m-b-5">Caches del navegador </div>
+
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+                                        <span class="sr-only">80% Complete (success)</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="list-group-item">
+                                <div class="list-group__heading m-b-5">Rendimiento del Sistema</div>
+
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+                                        <span class="sr-only">60% Complete (warning)</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="list-group-item">
+                                <div class="list-group__heading m-b-5">Tiempo de Actualizacion</div>
+
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+                                        <span class="sr-only">80% Complete (danger)</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> -->
+
+                       
+                    </div>
+                </div>
+            </aside>
+
+            <aside id="navigation">
+                <div class="navigation__header">
+                    <i class="zmdi zmdi-long-arrow-left" data-mae-action="block-close"></i> <h4 align="center" style="margin-top: -30px;">CAP-21</h4>
+                </div>
+
+                <div class="navigation__toggles">
+                    <a href="" data-mae-action="block-open" data-mae-target="#notifications" data-toggle="tab" data-target="#notifications__messages">
+                        <i class="zmdi zmdi-balance"></i>
+                    </a>
+                    <a href="" data-mae-action="block-open" data-mae-target="#notifications" data-toggle="tab" data-target="#notifications__updates">
+                        <i class="zmdi zmdi-email"></i>
+                    </a>
+                    <a href=""  data-mae-action="block-open" data-mae-target="#notifications" data-toggle="tab" data-target="#notifications__tasks">
+                        <i class="zmdi zmdi-assignment-account"></i>
+                    </a>
+                </div>
+
+                <div class="navigation__menu c-overflow">
+                    <ul>
+                        <li class="navigation__active">
+                            <a href="#"><i class="zmdi zmdi-home"></i> Tablero</a>
+                        </li>
+                        <li><a href="cobroFacturacion.html"><i class="zmdi zmdi-layers"></i> Cobro y facturación</a></li>
+                        <li class="navigation__sub">
+                            <a href="" data-mae-action="submenu-toggle"><i class="zmdi zmdi-collection-text"></i> Lecturas</a>
+                            <ul>
+                                <li><a href="lecturaMedidor.html">Medidor</a></li>
+                                <li><a href="lecturaReunion.html">Reuniones</a></li>
+                            </ul>
+                        </li>
+                        <li class="navigation__sub">
+                            <a href="" data-mae-action="submenu-toggle"><i class="zmdi zmdi-widgets"></i> Acciones</a>
+
+                            <ul>
+                                <li><a href="registroAccion.html">Registro de aciones</a></li>
+                            </ul>
+                        </li>
+                        
+                        
+                        <li class="navigation__sub">
+                            <a href="" data-mae-action="submenu-toggle"><i class="zmdi zmdi-trending-up"></i>Reportes</a>
+                            <ul>
+                                <li><a href="reporteConsumoAgua">Consumo de Agua</a></li>
+                                <li><a href="reporteAsamblea">Asambleas</a></li>
+                            </ul>
+                        </li>
+                        
+                        
+                        <li class="navigation__sub">
+                            <a href="" data-mae-action="submenu-toggle"><i class="zmdi zmdi-collection-item"></i> Configuración</a>
+                            <ul>
+                                <li><a href="avisos.html">Avisos</a></li>
+                                <li><a href="backup.html">Backup (BD)</a></li>
+                                
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </aside>
+
+            
+            <section id="content" class="content--boxed">
+                <div class="content__header content__header--calendar">
+                    <h2>May 2021</h2>
+
+                    <div class="actions actions--calendar">
+                        <a href="" class="actions__calender-prev"><i class="zmdi zmdi-long-arrow-left"></i></a>
+                        <a href="" class="actions__calender-next"><i class="zmdi zmdi-long-arrow-right"></i></a>
+                        <a href="" data-calendar-view="month" class="active"><i class="zmdi zmdi-view-comfy active"></i></a>
+                        <a href="" data-calendar-view="basicWeek" class=""><i class="zmdi zmdi-view-week"></i></a>
+                        <a href="" data-calendar-view="basicDay" class=""><i class="zmdi zmdi-view-day"></i></a>
+                    </div>
+                </div>
+
+                <div id="calendar" class="card fc fc-unthemed fc-ltr"><div class="fc-toolbar fc-header-toolbar" data-calendar-month="4"><div class="fc-left"></div><div class="fc-right"></div><div class="fc-center"></div><div class="fc-clear"></div></div><div class="fc-view-container" style=""><div class="fc-view fc-month-view fc-basic-view" style=""><table><thead class="fc-head"><tr><td class="fc-head-container fc-widget-header"><div class="fc-row fc-widget-header"><table><thead><tr><th class="fc-day-header fc-widget-header fc-sun"><span>Sun</span></th><th class="fc-day-header fc-widget-header fc-mon"><span>Mon</span></th><th class="fc-day-header fc-widget-header fc-tue"><span>Tue</span></th><th class="fc-day-header fc-widget-header fc-wed"><span>Wed</span></th><th class="fc-day-header fc-widget-header fc-thu"><span>Thu</span></th><th class="fc-day-header fc-widget-header fc-fri"><span>Fri</span></th><th class="fc-day-header fc-widget-header fc-sat"><span>Sat</span></th></tr></thead></table></div></td></tr></thead><tbody class="fc-body"><tr><td class="fc-widget-content"><div class="fc-scroller fc-day-grid-container" style="overflow: hidden; height: 802px;"><div class="fc-day-grid fc-unselectable"><div class="fc-row fc-week fc-widget-content" style="height: 133px;"><div class="fc-bg"><table><tbody><tr><td class="fc-day fc-widget-content fc-sun fc-other-month fc-future" data-date="2021-04-25"></td><td class="fc-day fc-widget-content fc-mon fc-other-month fc-future" data-date="2021-04-26"></td><td class="fc-day fc-widget-content fc-tue fc-other-month fc-future" data-date="2021-04-27"></td><td class="fc-day fc-widget-content fc-wed fc-other-month fc-future" data-date="2021-04-28"></td><td class="fc-day fc-widget-content fc-thu fc-other-month fc-future" data-date="2021-04-29"></td><td class="fc-day fc-widget-content fc-fri fc-other-month fc-future" data-date="2021-04-30"></td><td class="fc-day fc-widget-content fc-sat fc-future" data-date="2021-05-01"></td></tr></tbody></table></div><div class="fc-content-skeleton"><table><thead><tr><td class="fc-day-top fc-sun fc-other-month fc-future" data-date="2021-04-25"><span class="fc-day-number">25</span></td><td class="fc-day-top fc-mon fc-other-month fc-future" data-date="2021-04-26"><span class="fc-day-number">26</span></td><td class="fc-day-top fc-tue fc-other-month fc-future" data-date="2021-04-27"><span class="fc-day-number">27</span></td><td class="fc-day-top fc-wed fc-other-month fc-future" data-date="2021-04-28"><span class="fc-day-number">28</span></td><td class="fc-day-top fc-thu fc-other-month fc-future" data-date="2021-04-29"><span class="fc-day-number">29</span></td><td class="fc-day-top fc-fri fc-other-month fc-future" data-date="2021-04-30"><span class="fc-day-number">30</span></td><td class="fc-day-top fc-sat fc-future" data-date="2021-05-01"><span class="fc-day-number">1</span></td></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div></div><div class="fc-row fc-week fc-widget-content" style="height: 133px;"><div class="fc-bg"><table><tbody><tr><td class="fc-day fc-widget-content fc-sun fc-future" data-date="2021-05-02"></td><td class="fc-day fc-widget-content fc-mon fc-future" data-date="2021-05-03"></td><td class="fc-day fc-widget-content fc-tue fc-future" data-date="2021-05-04"></td><td class="fc-day fc-widget-content fc-wed fc-future" data-date="2021-05-05"></td><td class="fc-day fc-widget-content fc-thu fc-future" data-date="2021-05-06"></td><td class="fc-day fc-widget-content fc-fri fc-future" data-date="2021-05-07"></td><td class="fc-day fc-widget-content fc-sat fc-future" data-date="2021-05-08"></td></tr></tbody></table></div><div class="fc-content-skeleton"><table><thead><tr><td class="fc-day-top fc-sun fc-future" data-date="2021-05-02"><span class="fc-day-number">2</span></td><td class="fc-day-top fc-mon fc-future" data-date="2021-05-03"><span class="fc-day-number">3</span></td><td class="fc-day-top fc-tue fc-future" data-date="2021-05-04"><span class="fc-day-number">4</span></td><td class="fc-day-top fc-wed fc-future" data-date="2021-05-05"><span class="fc-day-number">5</span></td><td class="fc-day-top fc-thu fc-future" data-date="2021-05-06"><span class="fc-day-number">6</span></td><td class="fc-day-top fc-fri fc-future" data-date="2021-05-07"><span class="fc-day-number">7</span></td><td class="fc-day-top fc-sat fc-future" data-date="2021-05-08"><span class="fc-day-number">8</span></td></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div></div><div class="fc-row fc-week fc-widget-content" style="height: 133px;"><div class="fc-bg"><table><tbody><tr><td class="fc-day fc-widget-content fc-sun fc-future" data-date="2021-05-09"></td><td class="fc-day fc-widget-content fc-mon fc-future" data-date="2021-05-10"></td><td class="fc-day fc-widget-content fc-tue fc-future" data-date="2021-05-11"></td><td class="fc-day fc-widget-content fc-wed fc-future" data-date="2021-05-12"></td><td class="fc-day fc-widget-content fc-thu fc-future" data-date="2021-05-13"></td><td class="fc-day fc-widget-content fc-fri fc-future" data-date="2021-05-14"></td><td class="fc-day fc-widget-content fc-sat fc-future" data-date="2021-05-15"></td></tr></tbody></table></div><div class="fc-content-skeleton"><table><thead><tr><td class="fc-day-top fc-sun fc-future" data-date="2021-05-09"><span class="fc-day-number">9</span></td><td class="fc-day-top fc-mon fc-future" data-date="2021-05-10"><span class="fc-day-number">10</span></td><td class="fc-day-top fc-tue fc-future" data-date="2021-05-11"><span class="fc-day-number">11</span></td><td class="fc-day-top fc-wed fc-future" data-date="2021-05-12"><span class="fc-day-number">12</span></td><td class="fc-day-top fc-thu fc-future" data-date="2021-05-13"><span class="fc-day-number">13</span></td><td class="fc-day-top fc-fri fc-future" data-date="2021-05-14"><span class="fc-day-number">14</span></td><td class="fc-day-top fc-sat fc-future" data-date="2021-05-15"><span class="fc-day-number">15</span></td></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div></div><div class="fc-row fc-week fc-widget-content" style="height: 133px;"><div class="fc-bg"><table><tbody><tr><td class="fc-day fc-widget-content fc-sun fc-future" data-date="2021-05-16"></td><td class="fc-day fc-widget-content fc-mon fc-future" data-date="2021-05-17"></td><td class="fc-day fc-widget-content fc-tue fc-future" data-date="2021-05-18"></td><td class="fc-day fc-widget-content fc-wed fc-future" data-date="2021-05-19"></td><td class="fc-day fc-widget-content fc-thu fc-future" data-date="2021-05-20"></td><td class="fc-day fc-widget-content fc-fri fc-future" data-date="2021-05-21"></td><td class="fc-day fc-widget-content fc-sat fc-future" data-date="2021-05-22"></td></tr></tbody></table></div><div class="fc-content-skeleton"><table><thead><tr><td class="fc-day-top fc-sun fc-future" data-date="2021-05-16"><span class="fc-day-number">16</span></td><td class="fc-day-top fc-mon fc-future" data-date="2021-05-17"><span class="fc-day-number">17</span></td><td class="fc-day-top fc-tue fc-future" data-date="2021-05-18"><span class="fc-day-number">18</span></td><td class="fc-day-top fc-wed fc-future" data-date="2021-05-19"><span class="fc-day-number">19</span></td><td class="fc-day-top fc-thu fc-future" data-date="2021-05-20"><span class="fc-day-number">20</span></td><td class="fc-day-top fc-fri fc-future" data-date="2021-05-21"><span class="fc-day-number">21</span></td><td class="fc-day-top fc-sat fc-future" data-date="2021-05-22"><span class="fc-day-number">22</span></td></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div></div><div class="fc-row fc-week fc-widget-content" style="height: 133px;"><div class="fc-bg"><table><tbody><tr><td class="fc-day fc-widget-content fc-sun fc-future" data-date="2021-05-23"></td><td class="fc-day fc-widget-content fc-mon fc-future" data-date="2021-05-24"></td><td class="fc-day fc-widget-content fc-tue fc-future" data-date="2021-05-25"></td><td class="fc-day fc-widget-content fc-wed fc-future" data-date="2021-05-26"></td><td class="fc-day fc-widget-content fc-thu fc-future" data-date="2021-05-27"></td><td class="fc-day fc-widget-content fc-fri fc-future" data-date="2021-05-28"></td><td class="fc-day fc-widget-content fc-sat fc-future" data-date="2021-05-29"></td></tr></tbody></table></div><div class="fc-content-skeleton"><table><thead><tr><td class="fc-day-top fc-sun fc-future" data-date="2021-05-23"><span class="fc-day-number">23</span></td><td class="fc-day-top fc-mon fc-future" data-date="2021-05-24"><span class="fc-day-number">24</span></td><td class="fc-day-top fc-tue fc-future" data-date="2021-05-25"><span class="fc-day-number">25</span></td><td class="fc-day-top fc-wed fc-future" data-date="2021-05-26"><span class="fc-day-number">26</span></td><td class="fc-day-top fc-thu fc-future" data-date="2021-05-27"><span class="fc-day-number">27</span></td><td class="fc-day-top fc-fri fc-future" data-date="2021-05-28"><span class="fc-day-number">28</span></td><td class="fc-day-top fc-sat fc-future" data-date="2021-05-29"><span class="fc-day-number">29</span></td></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div></div><div class="fc-row fc-week fc-widget-content" style="height: 137px;"><div class="fc-bg"><table><tbody><tr><td class="fc-day fc-widget-content fc-sun fc-future" data-date="2021-05-30"></td><td class="fc-day fc-widget-content fc-mon fc-future" data-date="2021-05-31"></td><td class="fc-day fc-widget-content fc-tue fc-other-month fc-future" data-date="2021-06-01"></td><td class="fc-day fc-widget-content fc-wed fc-other-month fc-future" data-date="2021-06-02"></td><td class="fc-day fc-widget-content fc-thu fc-other-month fc-future" data-date="2021-06-03"></td><td class="fc-day fc-widget-content fc-fri fc-other-month fc-future" data-date="2021-06-04"></td><td class="fc-day fc-widget-content fc-sat fc-other-month fc-future" data-date="2021-06-05"></td></tr></tbody></table></div><div class="fc-content-skeleton"><table><thead><tr><td class="fc-day-top fc-sun fc-future" data-date="2021-05-30"><span class="fc-day-number">30</span></td><td class="fc-day-top fc-mon fc-future" data-date="2021-05-31"><span class="fc-day-number">31</span></td><td class="fc-day-top fc-tue fc-other-month fc-future" data-date="2021-06-01"><span class="fc-day-number">1</span></td><td class="fc-day-top fc-wed fc-other-month fc-future" data-date="2021-06-02"><span class="fc-day-number">2</span></td><td class="fc-day-top fc-thu fc-other-month fc-future" data-date="2021-06-03"><span class="fc-day-number">3</span></td><td class="fc-day-top fc-fri fc-other-month fc-future" data-date="2021-06-04"><span class="fc-day-number">4</span></td><td class="fc-day-top fc-sat fc-other-month fc-future" data-date="2021-06-05"><span class="fc-day-number">5</span></td></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div></div></div></div></td></tr></tbody></table></div></div></div>
+
+                <!-- Add new event -->
+                <div class="modal fade" id="new-event" data-backdrop="static" data-keyboard="false" style="display: none;">
+                    <div class="modal-dialog modal-sm">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h4 class="modal-title">Nuevo Evento</h4>
+                            </div>
+                            <div class="modal-body">
+                                <form class="new-event__form">
+                                    <div class="form-group form-group--light">
+                                        <input type="text" class="form-control new-event__title" placeholder="Titulo del Evento">
+                                        <i class="form-group__bar"></i>
+                                    </div>
+
+                                    <input type="hidden" class="new-event__start" value="2020-05-03">
+                                    <input type="hidden" class="new-event__end" value="2020-05-03">
+                                </form>
+                            </div>
+
+                            <div class="modal-footer">
+                                <button type="submit" class="btn btn-link" id="addEvent">Añadir Evento</button>
+                                <button type="button" class="btn btn-link" data-dismiss="modal">Cerrar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Edit event -->
+                <div class="modal fade" id="edit-event" data-backdrop="static" data-keyboard="false" style="display: none;">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-body">
+                                <form class="edit-event__form">
+                                    <div class="form-group form-group--light">
+                                        <input type="text" class="form-control edit-event__title" placeholder="Titulo del Evento">
+                                        <i class="form-group__bar"></i>
+                                    </div>
+
+                                    <div class="form-group form-group--light">
+                                        <textarea class="form-control edit-event__description textarea-autoheight" placeholder="Descripcion del Evento"></textarea>
+                                        <i class="form-group__bar"></i>
+                                    </div>
+
+                                    <input type="hidden" class="edit-event__id" value="6213577">
+                                </form>
+                            </div>
+
+                            <div class="modal-footer">
+                                <button class="btn btn-link" data-calendar="update">Actualizar</button>
+                                <button class="btn btn-link" data-calendar="delete">Eliminar</button>
+                                <button class="btn btn-link" data-dismiss="modal">Cerrar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+              
+              <!-- <script src="assets/app.js"></script> -->
+
+
+            <footer id="footer">
+                    Copyright &copy; s@u-Crgt 2020
+    
+                    <ul class="footer__menu">
+                        <li><a href="#">¿Problemas?</a></li>
+                        <li><a href="#">Inicio</a></li>
+                        <li><a href="#">¡Soporte!</a></li>
+                    </ul>
+                </footer>
+    
+            </section>
+    
+            <!-- Older IE Warning -->
+            <!--[if lt IE 9]>
+                <div class="ie-warning">
+                    <h1>Warning!!</h1>
+                    <p>You are using an outdated version of Internet Explorer, please upgrade <br/>to any of the following web browsers to access this website.</p>
+                    <div class="ie-warning__container">
+                        <ul class="ie-warning__download">
+                            <li>
+                                <a href="http://www.google.com/chrome/">
+                                    <img src="img/browsers/chrome.png" alt="">
+                                    <div>Chrome</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.mozilla.org/en-US/firefox/new/">
+                                    <img src="img/browsers/firefox.png" alt="">
+                                    <div>Firefox</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.opera.com">
+                                    <img src="img/browsers/opera.png" alt="">
+                                    <div>Opera</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.apple.com/safari/">
+                                    <img src="img/browsers/safari.png" alt="">
+                                    <div>Safari</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">
+                                    <img src="img/browsers/ie.png" alt="">
+                                    <div>IE (New)</div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <p>Sorry for the inconvenience!</p>
+                </div>
+            <![endif]-->
+    
+    
+            <!-- Javascript Libraries -->
+    
+            <!-- jQuery -->
+            <script src="../../vendors/jquery/dist/jquery.min.js"></script>
+    
+            <!-- Bootstrap -->
+            <script src="../../vendors/bootstrap/dist/js/bootstrap.min.js"></script>
+    
+            <!-- Malihu ScrollBar -->
+            <script src="../../vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
+    
+            <!-- Bootstrap Notify -->
+            <script src="../../vendors/remarkable-bootstrap-notify/dist/bootstrap-notify.min.js"></script>
+            
+            <!-- Moment -->
+            <script src="../../vendors/moment/min/moment.min.js"></script>
+    
+            <!-- Bootstrap Notify -->
+            <script src="../../vendors/remarkable-bootstrap-notify/dist/bootstrap-notify.min.js"></script>
+
+             <!-- SweetAlert -->
+            <script src="../../vendors/sweetalert2/dist/sweetalert2.min.js"></script>
+
+            <!-- FullCalendar -->
+            <script src="../../vendors/fullcalendar/dist/fullcalendar.min.js"></script>
+            <!-- <script src="../../vendors/moment/min/moment.min.js"></script> -->
+    
+            <!-- Demo Only -->
+            <script src="../../assets/demo/js/calendar.js"></script>
+
+
+            <!-- Placeholder for IE9 -->
+            <!--[if IE 9 ]>
+                <script src="vendors/jquery-placeholder/jquery.placeholder.min.js"></script>
+            <![endif]-->
+    
+
+            <!-- Site Functions & Actions -->
+            <script src="../../assets/js/app.min.js"></script>
+            
+    
+            <!-- PWA script -->
+            <script src="script.js"></script>
+            <!-- <script src="../../src/verify.js"></script> -->
+        </body>
+    </html>
+    

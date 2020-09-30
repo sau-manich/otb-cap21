@@ -1,0 +1,707 @@
+<!DOCTYPE html>
+<html lang="es">
+<!--[if IE 9 ]><html class="ie9"><![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- PWA desde aqui segun el video-->
+        <!-- Para pintar de color la barra de navegador de un navegador-->
+        <meta name="theme-color" content="#222">
+        <!-- Para decirle a los navegadores que tu sitio esta optimizado para moviles y que el sitio es amigable -->
+        <meta name="MobileOptimized" content="width">
+        <meta name="HandheldFriendly" content="true">
+        <!-- PWA para apple-->
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+        <!-- icono-->
+        <link rel="shortcut icon" type="image/png" href="../../assets/img/ico.png">
+        <!-- Pantalla de inicio-->
+        <link rel="apple-touch-icon" href="../../assets/img/ico.png">
+        <link rel="apple-touch-startup-image" href="../../assets/img/ico.png">
+        <!-- importante -->
+        <link rel="manifest" href="manifest.json">
+
+
+
+
+        <title>CAP-21 PWA</title>
+
+        <!-- Vendors -->
+
+        <!-- calendario CSS -->
+        <link href="../../assets/css/calendario.css" rel="stylesheet">
+
+        <!-- File CSS -->
+        <link href="../../assets/css/file.css" rel="stylesheet">
+
+        <!-- Animate CSS -->
+        <link href="../../vendors/animate.css/animate.min.css" rel="stylesheet">
+
+        <!-- Material Design Icons -->
+        <link href="../../vendors/material-design-iconic-font/dist/css/material-design-iconic-font.min.css" rel="stylesheet">
+
+        <!-- Malihu Scrollbar -->
+        <link href="../../vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.min.css" rel="stylesheet">
+
+        <!-- Farbtastic Color Picker-->
+        <link href="../../vendors/farbtastic/farbtastic.css" rel="stylesheet">
+
+        <!-- Select 2 -->
+        <link href="../../vendors/select2/dist/css/select2.min.css" rel="stylesheet">
+
+        <!-- Site CSS -->
+        <link href="../../assets/css/app-1.min.css" rel="stylesheet">
+
+        <!-- Page loader -->
+        <script src="../../assets/js/page-loader.min.js"></script>
+
+
+        
+
+
+    <!-- backdrop CRGT STYLE  -->
+        <link href="../../assets/css/bacdrop.css" rel="stylesheet">
+        <link href="../../assets/css/modalCRGT.css" rel="stylesheet">
+    </head>
+    
+    <body>
+        <!-- backdrop CRGT  -->
+        <div id="validate-modal" class="modal-validate">
+            <div class="modal-validate-content">
+                <p id="modal-text"></p>
+            </div>
+        </div>
+        
+        <!-- Page Loader -->
+        <div id="page-loader">
+            <div class="preloader preloader--xl preloader--light">
+                <svg viewbox="25 25 50 50">
+                    <circle cx="50" cy="50" r="20" />
+                </svg>
+            </div>
+        </div>
+
+        <!-- Header -->
+        <header id="header">
+            <div class="logo">
+                <a href="index.html" class="hidden-xs" align="center">
+                    CAP-21
+                    <small>Sistema de Cobro</small>
+                </a>
+                <i class="logo__trigger zmdi zmdi-menu" data-mae-action="block-open" data-mae-target="#navigation"></i>
+            </div>
+
+            <ul class="top-menu">
+                <li class="top-menu__trigger hidden-lg hidden-md">
+                    <h4 style="margin-left: -30%;">CAP-21</h4>
+                    <h6 style="margin-left: -55%;">Sistema Cobro OTB</h6>
+                </li>
+                
+                <li class="top-menu__apps dropdown hidden-xs hidden-sm">
+                    <a data-toggle="dropdown" href="">
+                        <i class="zmdi zmdi-apps"></i>
+                    </a>
+                    <ul class="dropdown-menu pull-right">
+                            <li>
+                                <a href="">
+                                    <i class="zmdi zmdi-cloud-off"></i>
+                                    <small>Problemas</small>
+                                </a>
+                            </li>
+                              <li>
+                                  <a href="">
+                                      <i class="zmdi zmdi-calendar"></i>
+                                      <small>Calendario</small>
+                                  </a>
+                              </li>
+                              <li>
+                                  <a href="">
+                                      <i class="zmdi zmdi-email"></i>
+                                      <small>Bandeja </small>
+                                  </a>
+                              </li>
+                              <li>
+                                  <a href="">
+                                      <i class="zmdi zmdi-trending-up"></i>
+                                      <small>Reportes</small>
+                                  </a>
+                              </li>
+                              <li>
+                                  <a href="">
+                                      <i class="zmdi zmdi-view-headline"></i>
+                                      <small>Noticias</small>
+                                  </a>
+                              </li>
+                              <li>
+                                  <a href="">
+                                      <i class="zmdi zmdi-image"></i>
+                                      <small>Galeria</small>
+                                  </a>
+                              </li>
+                          </ul>
+                </li>
+                <li class="dropdown hidden-xs">
+                    <a data-toggle="dropdown" href=""><i class="zmdi zmdi-more-vert"></i></a>
+                    <ul class="dropdown-menu dropdown-menu--icon pull-right">
+                        <li class="hidden-xs">
+                            <a data-mae-action="fullscreen" href=""><i class="zmdi zmdi-fullscreen"></i> Pantalla Completa</a>
+                        </li>
+                        <li>
+                            <a data-mae-action="clear-localstorage" href=""><i class="zmdi zmdi-delete"></i> Eliminar Caches</a>
+                        </li>
+                        <li>
+                            <a href=""><i class="zmdi zmdi-face"></i> Configuracion Perfil</a>
+                        </li>
+                        <li>
+                            <a href=""><i class="zmdi zmdi-settings"></i> Avanzados</a>
+                        </li>
+                    </ul>
+                </li>
+                <!-- <li class="top-menu__alerts" data-mae-action="block-open" data-mae-target="#notifications" data-toggle="tab" data-target="#notifications__messages">
+                    <a href=""><i class="zmdi zmdi-notifications"></i></a>
+                </li> -->
+                <li class="top-menu__profile dropdown">
+                    <a data-toggle="dropdown" href="">
+                        <img src="../../assets/img/usuarios/images.png" alt="">
+                    </a>
+
+                    <ul class="dropdown-menu pull-right dropdown-menu--icon">
+                        <li>
+                            <a href=""><i class="zmdi zmdi-input-antenna"></i> Comprobar Red</a>
+                        </li>
+                        <li>
+                            <a data-mae-action="fullscreen" href=""><i class="zmdi zmdi-fullscreen"></i> Pantalla Completa</a>
+                        </li>
+                        <li>
+                            <a href="../../index.html"><i class="zmdi zmdi-time-restore"></i> Salir</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+
+            <form class="top-search">
+                <input type="text" class="top-search__input" placeholder="Busquemos por medidor & número">
+                <i class="zmdi zmdi-search top-search__reset"></i>
+            </form>
+        </header>
+
+        <section id="main">
+            <aside id="notifications">
+                <ul class="tab-nav tab-nav--justified tab-nav--icon">
+                    <li><a class="user-alert__messages" href="#notifications__messages" data-toggle="tab"><i class="zmdi zmdi-balance"></i></a></li>
+                    <li><a class="user-alert__notifications" href="#notifications__updates" data-toggle="tab"><i class="zmdi zmdi-email"></i></a></li>
+                    <li><a class="user-alert__tasks" href="#notifications__tasks" data-toggle="tab"><i class="zmdi zmdi-cloud-done"></i></a></li>
+                </ul>
+
+                <div class="tab-content">
+                    <div class="tab-pane" id="notifications__messages">
+                        <div class="list-group">
+                            <a href="" class="list-group-item media">
+                                <div class="pull-left">
+                                    <img class="avatar-img" src="../../assets/img/usuarios/man.png" alt="">
+                                </div>
+
+                                <div class="media-body">
+                                    <div class="list-group__heading">Fulano Villa Jacobs</div>
+                                    <small class="list-group__text">Directiva de CAP-21 </small>
+                                </div>
+                            </a>
+
+                            <a href="" class="list-group-item media">
+                                <div class="pull-left">
+                                    <img class="avatar-img" src="../../assets/img/usuarios/boy-1.png" alt="">
+                                </div>
+                                <div class="media-body">
+                                    <div class="list-group__heading">Fulana de Barnes</div>
+                                    <small class="list-group__text">Directiva de CAP-21 </small>
+                                </div>
+                            </a>
+
+                            <a href="" class="list-group-item media">
+                                <div class="pull-left">
+                                    <img class="avatar-img" src="../../assets/img/usuarios/girl-7.png" alt="">
+                                </div>
+                                <div class="media-body">
+                                    <div class="list-group__heading">Fulanito de Lawson</div>
+                                    <small class="list-group__text">Directiva de CAP-21 </small>
+                                </div>
+                            </a>
+
+                            <a href="" class="list-group-item media">
+                                <div class="pull-left">
+                                    <img class="avatar-img" src="../../assets/img/usuarios/girl-5.png" alt="">
+                                </div>
+                                <div class="media-body">
+                                    <div class="list-group__heading">Fulanita de Mckinney</div>
+                                    <small class="list-group__text">Directiva de CAP-21 </small>
+                                </div>
+                            </a>
+
+                            <a href="" class="list-group-item media">
+                                <div class="pull-left">
+                                    <img class="avatar-img" src="../../assets/img/usuarios/boy-4.png" alt="">
+                                </div>
+                                <div class="media-body">
+                                    <div class="list-group__heading">Fulanisos Rudolph Perez</div>
+                                    <small class="list-group__text">Directiva de CAP-21 </small>
+                                </div>
+                            </a>
+                        </div>
+
+                        <a href="registroAccion.html" class="btn btn--float">
+                            <i class="zmdi zmdi-plus"></i>
+                        </a>
+                    </div>
+
+                    <div class="tab-pane" id="notifications__updates">
+                        <div class="list-group">
+                            <a href="" class="list-group-item media">
+                                <div class="pull-right">
+                                    <img class="avatar-img" src="../../assets/img/usuarios/boy-3.png" alt="">
+                                </div>
+
+                                <div class="media-body">
+                                    <div class="list-group__heading">Fulano Villa Jacobs</div>
+                                    <small class="list-group__text">Mensaje CAP-21</small>
+                                </div>
+                            </a>
+
+                            <a href="" class="list-group-item">
+                                <div class="pull-right">
+                                    <img class="avatar-img" src="../../assets/img/usuarios/girl.png" alt="">
+                                </div>
+                                <div class="list-group__heading">Fulana Candice Barnes</div>
+                                <small class="list-group__text">Mensaje CAP-21</small>
+                            </a>
+
+                            <a href="" class="list-group-item">
+                                <div class="pull-right">
+                                    <img class="avatar-img" src="../../assets/img/usuarios/girl.png" alt="">
+                                </div>
+                                <div class="list-group__heading"> Fulanillo Jeannette Lawson</div>
+                                <small class="list-group__text">Mensaje CAP-21</small>
+                            </a>
+
+                            <a href="" class="list-group-item media">
+                                <div class="pull-right">
+                                    <img class="avatar-img" src="../../assets/img/usuarios/boy-4.png" alt="">
+                                </div>
+                                <div class="media-body">
+                                    <div class="list-group__heading">Filancirigillo </div>
+                                    <small class="list-group__text">Mensaje CAP-21</small>
+                                </div>
+                            </a>
+
+                            <a href="" class="list-group-item media">
+                                <div class="pull-right">
+                                    <img class="avatar-img" src="../../assets/img/usuarios/girl.png" alt="">
+                                </div>
+                                <div class="media-body">
+                                    <div class="list-group__heading">Rudolph Perez</div>
+                                    <small class="list-group__text">Mensaje CAP-21</small>
+                                </div>
+                            </a>
+                        </div>
+                        <a href="avisos.html" class="btn btn--float">
+                            <i class="zmdi zmdi-plus"></i>
+                        </a>
+                    </div>
+
+                    <div class="tab-pane" id="notifications__tasks">
+                        <div class="list-group">
+                            <div class="list-group-item">
+                                <div class="list-group__heading m-b-5">Rendimiento CAP-21 onLine</div>
+
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width: 95%">
+                                        <span class="sr-only">95% Complete (success)</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="list-group-item">
+                                <div class="list-group__heading m-b-5">Rendimiento CAP-21 offLine</div>
+
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width: 45%">
+                                        <span class="sr-only">95% Complete (success)</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="list-group-item">
+                                <div class="list-group__heading m-b-5">Caches del navegador </div>
+
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+                                        <span class="sr-only">80% Complete (success)</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="list-group-item">
+                                <div class="list-group__heading m-b-5">Rendimiento del Sistema</div>
+
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+                                        <span class="sr-only">60% Complete (warning)</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="list-group-item">
+                                <div class="list-group__heading m-b-5">Tiempo de Actualizacion</div>
+
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+                                        <span class="sr-only">80% Complete (danger)</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                       
+                    </div>
+                </div>
+            </aside>
+
+            <aside id="navigation">
+                <div class="navigation__header">
+                    <i class="zmdi zmdi-long-arrow-left" data-mae-action="block-close"></i> <h4 align="center" style="margin-top: -30px;">CAP-21</h4>
+                </div>
+
+                <div class="navigation__toggles">
+                    <a href="" data-mae-action="block-open" data-mae-target="#notifications" data-toggle="tab" data-target="#notifications__messages">
+                        <i class="zmdi zmdi-balance"></i>
+                    </a>
+                    <a href="" data-mae-action="block-open" data-mae-target="#notifications" data-toggle="tab" data-target="#notifications__updates">
+                        <i class="zmdi zmdi-email"></i>
+                    </a>
+                    <a href=""  data-mae-action="block-open" data-mae-target="#notifications" data-toggle="tab" data-target="#notifications__tasks">
+                        <i class="zmdi zmdi-cloud-done"></i>
+                    </a>
+                </div>
+
+                <div class="navigation__menu c-overflow">
+                    <ul>
+                        <li>
+                            <a href="index.html"><i class="zmdi zmdi-home"></i> Tablero</a>
+                        </li>
+                        <li><a href="cobroFacturacion.html"><i class="zmdi zmdi-layers"></i> Cobro y facturación</a></li>
+                        <li class="navigation__sub navigation__active">
+                            <a href="" data-mae-action="submenu-toggle"><i class="zmdi zmdi-collection-text"></i> Lecturas</a>
+                            <ul>
+                                <li class="navigation__active"><a href="lecturaMedidor.html">Medidor</a></li>
+                                <li><a href="lecturaReunion.html">Asistencia Reunión</a></li>
+                            </ul>
+                        </li>
+                        <li class="navigation__sub">
+                            <a href="" data-mae-action="submenu-toggle"><i class="zmdi zmdi-widgets"></i> Acciones</a>
+
+                            <ul>
+                                <li><a href="registroAccion.html">Registro de aciones</a></li>
+                            </ul>
+                        </li>
+                        
+                        
+                        <li class="navigation__sub">
+                            <a href="" data-mae-action="submenu-toggle"><i class="zmdi zmdi-trending-up"></i>Reportes</a>
+                            <ul>
+                                <li><a href="reporteConsumoAgua">Consumo de Agua</a></li>
+                                <li><a href="reporteAsamblea">Asambleas</a></li>
+                            </ul>
+                        </li>
+                        
+                        
+                        <li class="navigation__sub">
+                            <a href="" data-mae-action="submenu-toggle"><i class="zmdi zmdi-collection-item"></i> Configuración</a>
+                            <ul>
+                                <li><a href="avisos.html">Avisos</a></li>
+                                <li><a href="backup.html">Backup (BD)</a></li>
+                                
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </aside>
+
+            <section id="content">
+                <div class="row">
+                    <div class="col-md-8">
+                        <div class="content__header">
+                            <h2>Nuevo Lectura</h2>
+        
+                            <div class="actions">
+                                <div class="dropdown">
+                                    <a href="" data-toggle="dropdown"><i class="zmdi zmdi-more-vert"></i></a>
+                                    <ul class="dropdown-menu pull-right">
+                                        <li><a href="">Refrescar</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div><br>
+                        <div class="card">
+                            <div class="card__header card__header--highlight text-center">
+                                <!-- main codes start -->
+                                <div class="signboard outer">
+                                    <div class="signboard front inner anim04c">
+                                        <li class="year anim04c">
+                                            <span></span>
+                                        </li>
+                                        <ul class="calendarMain anim04c" >
+                                            <li class="month anim04c" >
+                                                <span style="color: #fffdfd;"></span>
+                                            </li>
+                                            <li class="date anim04c">
+                                                <span style="color: #fffdfd;"></span>
+                                            </li>
+                                            <li class="day anim04c">
+                                                <span style="color: #fffdfd;"></span>
+                                            </li>
+                                        </ul>
+                                        <li class="clock minute anim04c">
+                                            <span></span>
+                                        </li>
+                                        <li class="calendarNormal date2 anim04c">
+                                            <span></span>
+                                        </li>
+                                    </div>
+                                    <div class="signboard left inner anim04c">
+                                        <li class="clock hour anim04c">
+                                            <span></span>
+                                        </li>
+                                        <li class="calendarNormal day2 anim04c">
+                                            <span></span>
+                                        </li>
+                                    </div>
+                                    <div class="signboard right inner anim04c">
+                                        <li class="clock second anim04c">
+                                            <span></span>
+                                        </li>
+                                        <li class="calendarNormal month2 anim04c">
+                                            <span></span>
+                                        </li>
+                                    </div>
+                                </div>
+                                <!-- main codes end -->
+                                <div class="designer anim04c">
+                                    <li>
+                                        <!-- <img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/t5/1117447_100001638983788_1284464661_q.jpg" alt=""> -->
+                                    </li>
+                                </div>
+                                <div class="col-sm-12 col-md-12  text-center">
+                                    
+                                    <div class="col-sm-12 col-md-12">
+                                        <div class="form-group">
+                                            <select class="select2" data-placeholder="Selecciona un mes para crearlo..">
+                                                <option>&nbsp;</option>
+                                                <option>Enero - 2020</option>
+                                                <option>Febrero - 2020</option>
+                                                <option>Marzo - 2020</option>
+                                                <option>Abril - 2020</option>
+                                                <option>Mayo - 2020</option>
+                                                <option>Junio - 2020</option>
+                                                <option>Julio - 2020</option>
+                                                <option>Agosto - 2020</option>
+                                                <option>Septiembre - 2020</option>
+                                                <option>Octubre - 2020</option>
+                                                <option>Noviembre - 2020</option>
+                                                <option>Diciembre - 2020</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div><br>
+                                <button class="btn btn--float"><i class="zmdi zmdi-plus"></i></button>
+                            </div>
+
+                            <div class="wall__actions">
+                                <div class="wall__actions__items">
+                                    <br>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card__header">
+                                <h2 align="center"><img class="avatar-img" src="../../assets/img/usuarios/ees.png" alt=""> <br><br> Aviso Importante<small>Recuerda que la lectura del medidor debe ser mayor o igual a la lectura anterior, en caso que la lectura sea menor debes dejarlo en blanco.</small></h2>
+                            </div>
+                            <div class="card__header card__header--highlight text-center">
+                                <div class="col-sm-12 col-md-12">
+                                    <div class="form-group">
+                                        <select class="select2" data-placeholder="Busquemos un mes para lecturar..">
+                                            <option>&nbsp;</option>
+                                            <option>Enero - 2020</option>
+                                            <option>Febrero - 2020</option>
+                                            <option>Marzo - 2020</option>
+                                            <option>Abril - 2020</option>
+                                            <option>Mayo - 2020</option>
+                                            <option>Junio - 2020</option>
+                                            <option>Julio - 2020</option>
+                                            <option>Agosto - 2020</option>
+                                            <option>Septiembre - 2020</option>
+                                            <option>Octubre - 2020</option>
+                                            <option>Noviembre - 2020</option>
+                                            <option>Diciembre - 2020</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <button class="btn btn--float"><i class="zmdi zmdi-search"></i></button>
+                            </div>
+
+                            <div class="wall__actions">
+                                <div class="wall__actions__items">
+                                    <br>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="action-header">
+                            <div class="action-header__label" align="center"><span class="hidden-xs">Lista de Socios CAP-21 </span></div>
+
+                            <div class="action-header__search">
+                                <input type="text" placeholder="Busquemos al socio.." class="action-header__input" id="busqueda-socio" name="busqueda_socio">
+                                <i class="action-header__close zmdi zmdi-long-arrow-left"></i>
+                            </div>
+
+                            <div class="actions action-header__actions">
+                                <a href="" class="action-header__toggle"><i class="zmdi zmdi-search"></i></a>
+
+                                <div class="dropdown ">
+                                    <a href="" data-toggle="dropdown">
+                                        <i class="zmdi zmdi-more-vert"></i>
+                                    </a>
+
+                                    <ul class="dropdown-menu pull-right">
+                                        <li>
+                                            <a href="">Refrescar</a>
+                                        </li>
+                                        <li>
+                                            <a href="">Eliminar registro</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="modal-full-set" class="overlay">
+                            <a class="closebtn" id="modal-full-close">&times;</a>
+                            <div id="modal-full-set-content" class="overlay-content"></div>
+                        </div>
+                        <div class="content--boxed">
+                            <div class="">
+                                <h3 id="mensaje_data" class="text-center text-uppercase"></h3>                                
+                                <form name="formularioLecturaMedidor" id="formularioLecturaMedidor">
+                                    <div class="contacts row" id="cards-socios-reading"></div>
+                                    <button type="submit" class="btn btn--float btn--fixed"><i class="zmdi zmdi-save"></i></button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </section>
+
+        <footer id="footer">
+            Copyright  2020 &copy; s@u!_m@n!ch
+
+            <ul class="footer__menu">
+                <li><a href="#">¿Problema?</a></li>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">¡Soporte!</a></li>
+            </ul>
+        </footer>
+
+    
+            </section>
+    
+            <!-- Older IE Warning -->
+            <!--[if lt IE 9]>
+                <div class="ie-warning">
+                    <h1>Warning!!</h1>
+                    <p>You are using an outdated version of Internet Explorer, please upgrade <br/>to any of the following web browsers to access this website.</p>
+                    <div class="ie-warning__container">
+                        <ul class="ie-warning__download">
+                            <li>
+                                <a href="http://www.google.com/chrome/">
+                                    <img src="img/browsers/chrome.png" alt="">
+                                    <div>Chrome</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.mozilla.org/en-US/firefox/new/">
+                                    <img src="img/browsers/firefox.png" alt="">
+                                    <div>Firefox</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.opera.com">
+                                    <img src="img/browsers/opera.png" alt="">
+                                    <div>Opera</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.apple.com/safari/">
+                                    <img src="img/browsers/safari.png" alt="">
+                                    <div>Safari</div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">
+                                    <img src="img/browsers/ie.png" alt="">
+                                    <div>IE (New)</div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <p>Sorry for the inconvenience!</p>
+                </div>
+            <![endif]-->
+    
+    
+            <!-- Javascript Libraries -->
+    
+            <!-- jQuery -->
+            <script src="../../vendors/jquery/dist/jquery.min.js"></script>
+    
+            <!-- Bootstrap -->
+            <script src="../../vendors/bootstrap/dist/js/bootstrap.min.js"></script>
+    
+            <!-- Malihu ScrollBar -->
+            <script src="../../vendors/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
+
+            <!-- Bootstrap Notify -->
+            <script src="../../vendors/remarkable-bootstrap-notify/dist/bootstrap-notify.min.js"></script>
+
+            <!-- Moment -->
+            <script src="../../vendors/moment/min/moment.min.js"></script>
+
+           <!-- Simple Weather -->
+            <script src="../../vendors/simpleWeather/jquery.simpleWeather.min.js"></script>
+    
+            <!-- Salvattore -->
+            <script src="../../vendors/salvattore/dist/salvattore.min.js"></script>
+
+            <!-- Select 2 -->
+            <script src="../../vendors/select2/dist/js/select2.full.min.js"></script>
+    
+    
+            <!-- Placeholder for IE9 -->
+            <!--[if IE 9 ]>
+                <script src="vendors/jquery-placeholder/jquery.placeholder.min.js"></script>
+            <![endif]-->
+    
+             <!-- calendario -->
+             <script src="../../assets/js/calendario.js"></script>
+    
+            <!-- Site Functions & Actions -->
+            <script src="../../assets/js/app.min.js"></script>
+    
+            <!-- PWA script -->
+            <script src="script.js"></script>
+
+            <!-- Objetos Accion -->
+            <script src="../../src/formularioLecturaMedidor.js"></script>
+            <!-- <script src="../../src/verify.js"></script> -->
+        </body>
+    </html>
+    

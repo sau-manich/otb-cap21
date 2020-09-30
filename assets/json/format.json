@@ -1,0 +1,46 @@
+/*
+    OTB formato de socios v2.0.0
+    todos los campos comentados son obligatorios
+*/
+{
+    "tipo": 2, // solo numeros enteros validos 2 o 3
+    "nombres": "bertha", // entre nombres un solo ESPACIO
+    "apellidos": "mamani mamani", // entre apellidos un solo ESPACIO
+    "ci": "2772879 or", // entre ci y extencion un solo ESPACIO
+    "fechaNacimiento": "1955/09/25", // formato AAAA/MM/DD
+    "sexo": "F", // un solo caracter  F o M
+    "email": "bertha@gmail.com", // correo
+    "ico": "Mujer_2", // validos Mujer_2 Mujer_1 Varon_1 Varon_2 
+    "medidores": { //puede soportar n medidores
+        "medidor1": {
+            "numero": "7865671", // soporta cadena
+            "direccion": "calle 21", // soporta cadena
+            "orden": "34fsdfs", // soporta cadena
+            "fechaInstalacion": "2016/03/05", // formato AAAA/MM/DD
+            "estado": null,
+            "lectura": 200, // solo campo entero
+            "compra": {
+                "precio": 30000, // soporta campo float 
+                "moneda": "DOLARES", // soporta BOLIVIANOS DOLARES EUROS OTRO
+                "tipo": "CHEQUE" // soporta EFECTIVO DEPOSITO CHEQUE WEB OTRO
+            }
+        },
+        "medidor2": {
+            "numero": "7265672",
+            "direccion": "calle 31",
+            "orden": "34fsddaf",
+            "fechaInstalacion": "2017/03/05",
+            "estado": false,
+            "lectura": 300,
+            "compra": {
+                "precio": 15000,
+                "moneda": "BOLIVIANOS",
+                "tipo": "EFECTIVO"
+            }
+        }
+    },
+    "telefonos": [
+        252565061, //soprta solo entero 
+        252582200
+    ]
+}
